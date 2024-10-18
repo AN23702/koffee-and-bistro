@@ -1,7 +1,7 @@
 import NotFound from './pages/user/NotFound'
 import Home from './pages/user/Home'
 import {BrowserRouter, Routes, Route} from "react-router-dom"
-import Layout from './pages/user/LayOut'
+import LayOut from './pages/user/LayOut'
 import Product from './pages/user/Product'
 import ProductDetails from './pages/user/ProductDetails'
 import BartendingAtHome from './pages/user/BartendingAtHome'
@@ -22,7 +22,7 @@ const App = () => {
     <BrowserRouter>
       <Routes>
 
-        <Route path='/' element={<Layout/>}> 
+        <Route path='/' element={<LayOut/>}> 
           <Route index element={<Home/>}/>
 
           <Route path='/product' element={<Product/>}/>

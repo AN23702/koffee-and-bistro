@@ -3,7 +3,7 @@ import TopBar from "../../components/common/TopBar"
 import Header from "../../components/common/Header"
 import Footer from "../../components/common/Footer"
 
-const Layout = () => {
+const LayOut = () => {
   return (
     <>
         {/* Top bar */}
@@ -21,4 +21,4 @@ const Layout = () => {
   )
 }
 
-export default Layout
+export default LayOut
