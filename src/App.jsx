@@ -1,7 +1,7 @@
 import NotFound from './pages/user/NotFound'
 import Home from './pages/user/Home'
 import {BrowserRouter, Routes, Route} from "react-router-dom"
-import LayOut from './pages/user/LayOut'
+
 import Product from './pages/user/Product'
 import ProductDetails from './pages/user/ProductDetails'
 import BartendingAtHome from './pages/user/BartendingAtHome'
@@ -14,6 +14,7 @@ import History from './pages/user/History'
 import Service from './pages/user/Service'
 import Job from './pages/user/Job'
 import Order from './pages/user/Order'
+import LayOut from './pages/user/Layout'
 
 const App = () => {
 
