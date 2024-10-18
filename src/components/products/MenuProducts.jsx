@@ -1,5 +1,4 @@
 import { Col, Container, Row } from "react-bootstrap"
-import phinSuaDa from "../../assets/images/phin-sua-da.png"
 import { Link } from "react-router-dom"
 import useCallApiProducts from "../../hooks/useCallApiProducts";
 import { url } from "../../untils/variable";
@@ -65,7 +64,7 @@ if (data.length == 0) return <p>không tồn tại sản phẩm</p>
                   return(
                     <Col xs={6} sm={3} md={3} className="product-card" key={product.id}>
 
-                    <Link to="/product-details" className="product-img">
+                    <Link to={`/product-details/${product.id}` } className="product-img">
                       <img
                         src={product.image}
                         alt={product.name}
@@ -105,7 +104,7 @@ if (data.length == 0) return <p>không tồn tại sản phẩm</p>
                   return(
                     <Col xs={6} sm={3} md={3} className="product-card" key={product.id}>
 
-                    <Link to="/product-details" className="product-img">
+                    <Link to={`/product-details/${product.id}` } className="product-img">
                       <img
                         src={product.image}
                         alt={product.name}
@@ -145,7 +144,7 @@ if (data.length == 0) return <p>không tồn tại sản phẩm</p>
                   return(
                     <Col xs={6} sm={3} md={3} className="product-card" key={product.id}>
 
-                    <Link to="/product-details" className="product-img">
+                    <Link to={`/product-details/${product.id}` } className="product-img">
                       <img
                         src={product.image}
                         alt={product.name}
@@ -184,7 +183,7 @@ if (data.length == 0) return <p>không tồn tại sản phẩm</p>
                   return(
                     <Col xs={6} sm={3} md={3} className="product-card" key={product.id}>
 
-                    <Link to="/product-details" className="product-img">
+                    <Link to={`/product-details/${product.id}` } className="product-img">
                       <img
                         src={product.image}
                         alt={product.name}
@@ -223,7 +222,7 @@ if (data.length == 0) return <p>không tồn tại sản phẩm</p>
                   return(
                     <Col xs={6} sm={3} md={3} className="product-card" key={product.id}>
 
-                    <Link to="/product-details" className="product-img">
+                    <Link to={`/product-details/${product.id}` } className="product-img">
                       <img
                         src={product.image}
                         alt={product.name}
@@ -262,7 +261,7 @@ if (data.length == 0) return <p>không tồn tại sản phẩm</p>
                   return(
                     <Col xs={6} sm={3} md={3} className="product-card" key={product.id}>
 
-                    <Link to="/product-details" className="product-img">
+                    <Link to={`/product-details/${product.id}` } className="product-img">
                       <img
                         src={product.image}
                         alt={product.name}

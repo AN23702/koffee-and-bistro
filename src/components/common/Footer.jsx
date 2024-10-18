@@ -10,7 +10,7 @@ const Footer = () => {
             <h3 className="footer-title">Giới thiệu</h3>
             <ul className="footer-linkslist">
               <li>
-                <a href="##">Về chúng tôi</a>
+                <Link to="/about-us">Về chúng tôi</Link>
               </li>
               <li>
                 <Link to="/product">Sản phẩm</Link>
@@ -19,10 +19,10 @@ const Footer = () => {
                 <a href="##">Khuyến mãi</a>
               </li>
               <li>
-                <a href="##">Cửa hàng</a>
+                <Link to="/store">Cửa hàng</Link>
               </li>
               <li>
-                <a href="##">Tuyển dụng</a>
+                <Link to="/job">Tuyển dụng</Link>
               </li>
             </ul>
           </Col>

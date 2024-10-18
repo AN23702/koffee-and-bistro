@@ -52,7 +52,7 @@ const StoreList = () => {
                     // store card
                     <Col xs={6} sm={6} md={6} className="store-card" key={store.id}>
                     {/* slide img store */}
-                    <Link to='/store-details'>
+                    <Link to={`/store-details/${store.id}`}>
                         <Carousel className="slide-img-store" interval='3000'>
                             <Carousel.Item className="item">
                                     <img src={store.image1} alt="store img" />

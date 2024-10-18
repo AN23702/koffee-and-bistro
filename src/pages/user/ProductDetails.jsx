@@ -2,11 +2,21 @@ import React from 'react'
 import BackToTopBar from '../../components/common/BackToTopBar'
 import MiniGame from '../../components/common/MiniGame'
 import Messenger from '../../components/common/Messenger'
-
-import traSenVang from "../../assets/images/tra-sen-vang.png"
 import { Col, Container, Row } from 'react-bootstrap'
+import { url } from '../../untils/variable'
+import useCallApiProducts from '../../hooks/useCallApiProducts'
+import { useParams } from 'react-router-dom'
 
 const ProductDetails = () => {
+
+    const paramsProduct = useParams("id");
+    const urlDetailProduct = url + `/${paramsProduct.id}`;
+  
+    const {data, isLoading} = useCallApiProducts(urlDetailProduct);
+  
+    if(isLoading) return <p>Loading...</p>
+
+
   return (
     <>
         {/* product details */}
@@ -15,37 +25,37 @@ const ProductDetails = () => {
                 <Row>
                     {/* img product */}
                     <Col xs={12} sm={6} md={6} className="img-product">
-                        <img src={traSenVang} alt="" />
+                        <img src={data.image} alt="img product" />
                     <hr />
                     {/* describe product */}
                     <h1>Mô tả</h1>
+
                     <p className="describe-product">
-                        Thức uống chinh phục những thực khách khó tính! Sự kết hợp độc đáo
-                        giữa trà Ô long, hạt sen thơm bùi và củ năng giòn tan. Thêm vào chút
-                        sữa sẽ để vị thêm ngọt ngào.
+                        {data.describeProduct}
                     </p>
+
                     </Col>
                     {/* product details right */}
                     <Col xs={12} sm={6} md={6} className="product-details-right">
                     {/* product name */}
-                    <h1 className="product-name">Trà sen vàng</h1>
+                    <h1 className="product-name">{data.name}</h1>
                     {/* product price */}
-                    <p className="product-price">45.000đ</p>
+                    <p className="product-price">{data.price}đ</p>
                     {/* options sizes */}
                     <div className="options-sizes">
                         <p>Chọn size (bắt buộc)</p>
                         <div className="options-sizes-box">
                         <div className="size-choice small-size">
                             <i className="fa-solid fa-glass-water" />
-                            Nhỏ - 45.000đ
+                            Nhỏ - {data.priceS}đ
                         </div>
                         <div className="size-choice medium-size">
                             <i className="fa-solid fa-glass-water" />
-                            Vừa - 55.000đ
+                            Vừa - {data.priceM}đ
                         </div>
                         <div className="size-choice big-size">
                             <i className="fa-solid fa-glass-water" />
-                            Lớn - 65.000đ
+                            Lớn - {data.priceL}đ
                         </div>
                         </div>
                     </div>

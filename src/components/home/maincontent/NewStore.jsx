@@ -1,6 +1,7 @@
 import { Carousel, Col, Container, Row } from 'react-bootstrap'
 import { urlStore } from '../../../untils/variable';
 import useCallApiStores from '../../../hooks/useCallApiStores';
+import { Link } from 'react-router-dom';
 
 
 const NewStore = () => {
@@ -36,7 +37,7 @@ const NewStore = () => {
                                 {store.summary}
                             </p>
 
-                            <button>Tìm hiểu thêm</button>
+                            <Link to={`/store-details/${store.id}`}>Tìm hiểu thêm</Link>
 
                         </div>
 

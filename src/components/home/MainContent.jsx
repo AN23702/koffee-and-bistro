@@ -3,6 +3,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 import { url} from '../../untils/variable';
 import useCallApiProducts from '../../hooks/useCallApiProducts';
 import NewStore from './maincontent/NewStore';
+import { Link } from "react-router-dom";
 
 
 const MainContent = () => {
@@ -46,12 +47,12 @@ if (data.length == 0) return <p>không tồn tại sản phẩm</p>
                                     return(
                                         // product card
                                         <Col xs={6} sm={6} md={6} className="product-card" key={product.id}>
-                                            <div className="product-img">
+                                            <Link to={`/product-details/${product.id}` }className="product-img">
                                                 <img
                                                     src={product.image}
                                                     alt={product.name}
                                                 />
-                                            </div>
+                                            </Link>
 
                                             <div className="product-detail">
                                                 <h3 className="name-product">{product.name}</h3>
@@ -94,9 +95,9 @@ if (data.length == 0) return <p>không tồn tại sản phẩm</p>
                         <Col xs={6} sm={3} md={3} key={product.id}>
                         {/* product card */}
                         <div className="product-card">
-                            <div className="product-img">
+                            <Link to={`/product-details/${product.id}` } className="product-img">
                                 <img src={product.image} alt={product.name} />
-                            </div>
+                            </Link>
 
                             <div className="product-detail">
                                 <h3 className="name-product">{product.name}</h3>

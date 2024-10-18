@@ -6,6 +6,7 @@ import MiniGame from '../../components/common/MiniGame'
 import Messenger from '../../components/common/Messenger'
 import useCallApiProducts from '../../hooks/useCallApiProducts'
 import { url } from '../../untils/variable'
+import { Link } from 'react-router-dom'
 
 const BartendingAtHome = () => {
 
@@ -52,12 +53,12 @@ const BartendingAtHome = () => {
                                 <Row>
                                     {/* product card */}
                                     <Col xs={6} sm={6} md={6} className="product-card">
-                                    <div className="product-img">
+                                    <Link to={`/product-details/${product.id}` }  className="product-img">
                                         <img
                                         src={product.image}
                                         alt={product.name}
                                         />
-                                    </div>
+                                    </Link>
                                     <div className="product-detail">
                                         <h3 className="name-product">
                                         {product.name}

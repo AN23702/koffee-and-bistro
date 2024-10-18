@@ -1,9 +1,19 @@
 import React from 'react'
 import { Container, Row, Col } from 'react-bootstrap'
-import imgStore from '../../assets/images/store-img.jpg'
+import { useParams } from 'react-router-dom';
+import { urlStore } from '../../untils/variable';
+import useCallApiStores from '../../hooks/useCallApiStores';
 
 
 const StoreDetails = () => {
+
+  const paramsStore = useParams("id");
+  const urlDetailStore = urlStore + `/${paramsStore.id}`;
+
+  const {data, isLoading} = useCallApiStores(urlDetailStore);
+
+  if(isLoading) return <p>Loading...</p>
+
   return (
 <>
   {/* Store details */}
@@ -12,35 +22,30 @@ const StoreDetails = () => {
       <Row>
         {/* img store */}
         <Col xs={12} sm={6} md={6} className="img-store">
-          <img src={imgStore} alt="q" />
-          <img src={imgStore} alt="q" />
-          <img src={imgStore} alt="q" />
-          <img src={imgStore} alt="q" />
-          <img src={imgStore} alt="q" />
+          <img src={data.image1} alt="img store" />
+          <img src={data.image2} alt="img store" />
+          <img src={data.image3} alt="img store" />
+          <img src={data.image4} alt="img store" />
+          <img src={data.image5} alt="img store" />
         </Col>
         {/* store details right */}
         <Col xs={12} sm={6} md={6} className="store-details-right">
           <div className="store-details-right">
             {/* store name */}
-            <h1 className="store-name">HCM SIGNATURE by The Coffee House</h1>
+            <h1 className="store-name">{data.name}</h1>
             {/* store introduce*/}
             <p className="store-introduce">
-              Nhà tin rằng “cuộc hẹn cà phê” luôn có cho mình những tiêu chuẩn,
-              phiên bản khác nhau, chúng luôn biến hoá mỗi ngày. Và SIGNATURE by
-              The Coffee House là nơi bạn tìm thấy phiên bản đặc biệt của Cuộc
-              hẹn tròn đầy giữa những ngày hối hả.Hôm nay bạn có hẹn chưa? Mình
-              cà phê nhé!
+              {data.content}
             </p>
             {/* store address */}
             <h3>Địa chỉ</h3>
             <p className="store-address">
-              TTTM Crescent Mall, 101 Tôn Dật Tiên, Phường Tân Phú, Quận 7,
-              Thành phố Hồ Chí Minh
+              {data.address}
             </p>
             {/* view map */}
             <a
               className="view-map"
-              href="https://www.google.com/maps/place/Highland+coffee+Hateco+Apollo/@21.0489384,105.7144403,14z/data=!4m6!3m5!1s0x313455b4c168a9c1:0x964df2f86b22833!8m2!3d21.0489404!4d105.7350475!16s%2Fg%2F11sc95yxh9?entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D"
+              href={data.linkViewMap}
               target="_blank"
             >
               <p>Xem bản đồ</p>

@@ -3,7 +3,6 @@ import BackToTopBar from '../../components/common/BackToTopBar'
 import MiniGame from '../../components/common/MiniGame'
 import Messenger from '../../components/common/Messenger'
 import { Col, Container, Row } from 'react-bootstrap'
-import imgNewsCard from '../../assets/images/470_crop_THUMBNAILS.jpg'
 import { Link } from "react-router-dom";
 import useCallApiPosts from '../../hooks/useCallApiPosts'
 import { urlPost } from '../../untils/variable'
@@ -44,8 +43,9 @@ const News = () => {
                 return(
                     // news card
                     <Col xs={12} sm={4} md={4} className="news-card" key={post.id}>
+
                     {/* img news card */}
-                    <Link to='/content-news'>
+                    <Link to={`/content-news/${post.id}`}>
                         <img className="img-news-card" src={post.image} alt="img news"/>
                     </Link>
     
@@ -55,7 +55,7 @@ const News = () => {
                     </h1>
                     {/* date */}
                     <div className="date">
-                        <i className="fa-solid fa-calendar" />
+                        <i className="fa-solid fa-calendar"/>
                         {post.time}
                     </div>
                 </Col>

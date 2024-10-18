@@ -27,17 +27,17 @@ const App = () => {
 
           <Route path='/product' element={<Product/>}/>
 
-          <Route path='/product-details' element={<ProductDetails/>}/>
+          <Route path='/product-details/:id' element={<ProductDetails/>}/>
 
           <Route path='/bartending-at-home' element={<BartendingAtHome/>}/>
 
           <Route path='/store' element={<Store/>}/>
 
-          <Route path='/store-details' element={<StoreDetails/>}/>
+          <Route path='/store-details/:id' element={<StoreDetails/>}/>
 
           <Route path='/news' element={<News/>}/>
 
-          <Route path='/content-news' element={<ContentNews/>}/>
+          <Route path='/content-news/:id' element={<ContentNews/>}/>
 
           <Route path='/about-us' element={<AboutUs/>}/>
 

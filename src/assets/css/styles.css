@@ -788,13 +788,17 @@
     font-size: 16px;
   }
 
-.new-store-slide .new-store-card .store-content button{
+.new-store-slide .new-store-card .store-content a{
     border: none;
     border-radius: 8px;
     background-color: #C8070F;
     color: #fff;
     padding: 8px 25px;
     font-size: 16px;
+    width: auto;
+    height: auto;
+    transform: none;
+    text-decoration: none;
   }
 
 .new-store-slide .new-store-card .img-new-store-slide{
@@ -1127,6 +1131,10 @@
 .product-details{
     padding: 60px 0;
     margin-bottom: 60px;
+}
+
+.hidden{
+    display: none;
 }
 
 /* img product */
@@ -1616,6 +1624,10 @@
 .news .news-card .date{
     font-size: 13px;
     margin-top: 12px;
+}
+
+.news .news-card .date i{
+    margin-right: 4px;
 }
 
 /* content news */
