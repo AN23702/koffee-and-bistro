@@ -1,6 +1,5 @@
 import { Col, Container, Row } from "react-bootstrap"
 import Carousel from 'react-bootstrap/Carousel';
-import storeImg from "../../assets/images/store-img.jpg"
 import { Link } from "react-router-dom";
 import { urlStore } from '../../untils/variable';
 import useCallApiStores from '../../hooks/useCallApiStores';
@@ -101,6 +100,7 @@ const StoreList = () => {
 
 
                 </Row>
+
             </Container>
             </Col>
         </Row>

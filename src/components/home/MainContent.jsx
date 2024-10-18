@@ -1,5 +1,5 @@
 import newProduct from "../../assets/images/new-product.png";
-import { Container, Row, Col } from 'react-bootstrap';
+import { Container, Row, Col} from 'react-bootstrap';
 import { url} from '../../untils/variable';
 import useCallApiProducts from '../../hooks/useCallApiProducts';
 import NewStore from './maincontent/NewStore';
@@ -115,10 +115,9 @@ if (data.length == 0) return <p>không tồn tại sản phẩm</p>
                     )
                 })}
 
-
-            
                 </Row>
             </Container>
+
         </div>
 
         {/* New store */}

@@ -1,0 +1,745 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Cà phê sữa đá",
+            "class" : "coffee",
+            "image" : "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463375540_1237865100756800_2248871714632553282_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFzKZyd4sqGkRoUrU7HSaiJbYVKd4fK-lZthUp3h8r6Vri0pVCvED893lIUxBTHb4nA0PvS1XY6J2ahdG7mUp6Q&_nc_ohc=ILwcjQPatWgQ7kNvgGrp_U9&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AVHvoX1pHcg72J359yJMcDU&oh=00_AYBoEgKt3-Gqtmx9POk49cm30YD2kXjpwoVd6R87UH2mOA&oe=67158CD2",
+            "describeProduct": "Phin Sữa Đá hương vị cà phê Việt Nam đích thực! Từng hạt cà phê hảo hạng được chọn bằng tay, phối trộn độc đáo giữa hạt Robusta từ cao nguyên Việt Nam, thêm Arabica thơm lừng. Cà phê được pha từ Phin truyền thống, hoà cùng sữa đặc sánh và thêm vào chút đá tạo nên ly Phin Sữa Đá – Đậm Đà Chất Phin.",
+            "sell":"best seller",
+            "price": 29000,
+            "priceS": 29000,
+            "priceM": 39000,
+            "priceL": 45000
+        },
+
+        {
+            "id": 2,
+            "name": "Cà phê bạc xỉu",
+            "class" : "coffee",
+            "image": "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463408023_1237864514090192_420088478317120271_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFRhYv8yjfyd4PloAhhBOu_rcForHopeMmtwWiseil4yUzlRUyp-ri35_ZBVJtTnZ9NzJAQzCCBvn8u_xx6MV3P&_nc_ohc=TXJd_NhZK2wQ7kNvgGh-D2t&_nc_ht=scontent.fhan18-1.fna&_nc_gid=Ae_pYVfxQ8ZGVlIUfy1No1w&oh=00_AYB4TPOg0aSXNhykMsyRKYhJvSPIH6PFYtKm6k_hTOTAQw&oe=671593C9",
+            "describeProduct": "Nếu Phin Sữa Đá dành cho các bạn đam mê vị đậm đà, thì Bạc Xỉu Đá là một sự lựa chọn nhẹ đô cà phê nhưng vẫn thơm ngon, chất lừ không kém!",
+            "price": 29000,
+            "priceS": 29000,
+            "priceM": 39000,
+            "priceL": 45000
+        },
+
+        {
+            "id": 3,
+            "name": "Cà phê đen đá", 
+            "class" : "coffee",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463485377_1237865057423471_96076254136673408_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFcM-2rdWbYSiXr9X1biuvrJn7OrlO2hQUmfs6uU7aFBQdxsyZJigd21HT86PKebvR2Y4Duul5KQ2PMH6w7oerY&_nc_ohc=fBbTDWdRodsQ7kNvgHwZxeb&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AQXaDBo8KB-6gQxjpVLo_Vx&oh=00_AYC5jz2x1_GMxMch6Ly8C2vVEx7q2o8idIGyHc_f8gjGDg&oe=671588B2",
+            "describeProduct": "Dành cho những tín đồ cà phê đích thực! Hương vị cà phê truyền thống được phối trộn độc đáo tại Koffee and Bistro. Cà phê đậm đà pha hoàn toàn từ Phin, cho thêm 1 thìa đường, một ít đá viên mát lạnh, tạo nên Phin Đen Đá mang vị cà phê đậm đà chất Phin. ",
+            "price": 29000,
+            "priceS": 29000,
+            "priceM": 35000,
+            "priceL": 39000
+        },
+
+        {
+            "id": 4,
+            "name": "Trà sen vàng",
+            "class":"tea", 
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463657937_1237865327423444_5780509897569778232_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGPQUEJjdtJsjWH5CuAQTY0hwuZ0mOXwDqHC5nSY5fAOqAbGCxuBgAEf4W1fyDHpyvhwo3AHE53Hhche1wvuM41&_nc_ohc=0uxKFBHA4CsQ7kNvgGCQKQk&_nc_ht=scontent.fhan18-1.fna&_nc_gid=A_MA0EPRkoVfTnwnmgokvy7&oh=00_AYCJtPUhCOILjC95TLbi3UV2MVAKH5wUutR-EbTOjtBtGg&oe=671598CB",
+            "describeProduct": "Thức uống chinh phục những thực khách khó tính! Sự kết hợp độc đáo giữa trà Ô long, hạt sen thơm bùi và củ năng giòn tan. Thêm vào chút sữa sẽ để vị thêm ngọt ngào.",
+            "sell":"best seller",
+            "price": 45000,
+            "priceS": 45000,
+            "priceM": 55000,
+            "priceL": 65000
+        },
+
+        {
+            "id": 5,
+            "name": "Trà thạch đào",
+            "class":"tea", 
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463745082_1237865344090109_8034752297646995021_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEJFtTIxUX0PAFa0nUQOvIem76VPVAwg0ebvpU9UDCDR_lJ1d_uC-TCUnq0vw2RAxvz8pZH1PS1LLQ2Pwq0pDLY&_nc_ohc=b329T0aykYQQ7kNvgGywwAM&_nc_ht=scontent.fhan18-1.fna&_nc_gid=Av5AxLQsx-HpxJs-DKRqSbC&oh=00_AYB1-USZBUK1tVxFxzPOS8f9vJYNkdIWQvunOr_J0KQtKg&oe=67159B9B",
+            "describeProduct": "Vị trà đậm đà kết hợp cùng những miếng đào thơm ngon mọng nước cùng thạch đào giòn dai. Thêm vào ít sữa để gia tăng vị béo.",
+            "sell":"best seller",
+            "price": 45000,
+            "priceS": 45000,
+            "priceM": 55000,
+            "priceL": 65000
+        },
+
+        {
+            "id": 6,
+            "name": "Trà thanh đào",
+            "class":"tea",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463426664_1237865427423434_5695507299669178119_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHL2LPKR6ycnA7Wkyt5ICqPBUXQQLQ0ZisFRdBAtDRmK_zPMezZSIRqkODmoiiw5_i7fUpzUV9LYpe3YH_-voyj&_nc_ohc=rxdL171UUwEQ7kNvgEt0NZ4&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AIclM-zufZvxt3SlRZxO8SE&oh=00_AYDPWbAM9uBvi-SCu-P4R9haXpbsz2D6VS_EyWZ5LDx5og&oe=6715BBD6",
+            "describeProduct": "Một trải nghiệm thú vị khác! Sự hài hòa giữa vị trà cao cấp, vị sả thanh mát và những miếng đào thơm ngon mọng nước sẽ mang đến cho bạn một thức uống tuyệt vời.",
+            "price": 45000,
+            "priceS": 45000,
+            "priceM": 55000,
+            "priceL": 65000
+        },
+
+        {
+            "id": 7,
+            "name": "Trà thạch vải",
+            "class":"tea", 
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463744778_1237865397423437_4047146084502159176_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGqecdgfxEYPeQyQ8S4IiPqA2Yt78DbXkYDZi3vwNteRhBfPfjYayyWJDUmi2W5vjaMAc76JypcLUpEW2U-RnZF&_nc_ohc=tmT7rci3iwEQ7kNvgGqMBFR&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AoRX7_DBNBpuBtQxvo29yms&oh=00_AYAS1PJgCuRF3DlzFBlwbZ2BrYzhVVz972fONnbiQwSJkw&oe=67159ED8",
+            "describeProduct": "Một sự kết hợp thú vị giữa trà đen, những quả vải thơm ngon và thạch giòn khó cưỡng, mang đến thức uống tuyệt hảo!",
+            "price": 45000,
+            "priceS": 45000,
+            "priceM": 55000,
+            "priceL": 65000
+        },
+
+        {
+            "id": 8,
+            "name": "Trà xanh đậu đỏ",
+            "class":"tea",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463628981_1237865440756766_7727066119555861154_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFrYUiug_V93nKLqf8e5WdgmBrByAMC_5uYGsHIAwL_m1LoNATkte1hAkH_hTxxiBDN710XKTChvcSPaSsszHri&_nc_ohc=OzV3cjvlVugQ7kNvgE9JHAn&_nc_ht=scontent.fhan18-1.fna&_nc_gid=A9qCITwiOAnyiEsiYV_0Fkq&oh=00_AYBa4B3JnsbVrH-LXjd9t3GX6TMXDyiJ3zodmKSNVUp3KQ&oe=67159BC6",
+            "describeProduct": "Trà Xanh Đậu Đỏ với vị trà xanh đăng đắng thơm ngát, thêm độ ngọt vừa và mềm mại của đậu đỏ. Ngon ngọt nhưng không ngấy.",
+            "price": 45000,
+            "priceS": 45000,
+            "priceM": 55000,
+            "priceL": 65000
+        },
+
+        {
+            "id": 9,
+            "name": "Trà quả mọng anh đào",
+            "class":"tea",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463739680_1237865304090113_6646324919612461664_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEv_jbkd50QdElFMFmgxrMS3bfIq6lRF07dt8irqVEXThSkoYtLO31touQjTLj24zHi3Qrjvu9Coj7ityeUApec&_nc_ohc=xjGgJdzmAh0Q7kNvgF-yRPr&_nc_ht=scontent.fhan18-1.fna&_nc_gid=A2Jg814bAzmi0Vq1xsLWimn&oh=00_AYBQT_32kcStu_pYnlGRjYJHgHpQsjUM1_-USU6v7oNHGw&oe=6715AAA3",
+            "describeProduct": "Trà Quả Mọng Anh Đào là sự kết hợp giữa trà thơm cùng quả mọng chua ngọt, thêm đài quả ngâm giòn giòn, đánh tan cơn khát.",
+            "status": "new",
+            "price": 45000,
+            "priceS": 45000,
+            "priceM": 55000,
+            "priceL": 65000
+        },
+
+        {
+            "id": 10,
+            "name": "Freeze trà xanh",
+            "class": "freeze",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463402875_1237864940756816_5395631795166341378_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEd9I8cGb6Q8tCdvpLkL3Ou9EqcEWr0SnL0SpwRavRKcmhNpvQ-NtNGSYHnAz1K20ZlksPwUvMpRH_0mD2wJe1Y&_nc_ohc=RjQB089jSYYQ7kNvgGwWz_0&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AtoUaChiG0z0FfHEVpTT0sT&oh=00_AYArMpGjrWp-2T1r9H0EGl00i6Sqh0EJ7XMHZftKTI4A3Q&oe=6715B3B9",
+            "describeProduct": "Thức uống rất được ưa chuộng! Trà xanh thượng hạng từ cao nguyên Việt Nam, kết hợp cùng đá xay, thạch trà dai dai, thơm ngon và một lớp kem dày phủ lên trên vô cùng hấp dẫn. Freeze Trà Xanh thơm ngon, mát lạnh, chinh phục bất cứ ai!",
+            "sell":"best seller",
+            "price": 55000,
+            "priceS": 55000,
+            "priceM": 65000,
+            "priceL": 69000
+        },
+
+        {
+            "id": 11,
+            "name": "Freeze socola",
+            "class": "freeze",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463460071_1237864920756818_1005910446095500367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHSjv8PFICsBMrKAY8vbfuQ-7dUOnQpvqv7t1Q6dCm-q-hWc3VpzCRdhE5Bo_ODIGnJVhL2ZfcbI4hyBFN1vfP_&_nc_ohc=iyUv1wtA9rUQ7kNvgH53NWp&_nc_ht=scontent.fhan18-1.fna&_nc_gid=A4YX6qPoaGxpvADNHiFz66l&oh=00_AYBvg2zImX2hsX_GZzamKktdjsRW_NLZB98ZS7vQTpjS0A&oe=6715B474",
+            "describeProduct": "Thiên đường đá xay sô cô la! Từ những thanh sô cô la Việt Nam chất lượng được đem xay với đá cho đến khi mềm mịn, sau đó thêm vào thạch sô cô la dai giòn, ở trên được phủ một lớp kem whip beo béo và sốt sô cô la ngọt ngào. Tạo thành Freeze Sô-cô-la ngon mê mẩn chinh phục bất kì ai!",
+            "sell":"best seller",
+            "price": 55000,
+            "priceS": 55000,
+            "priceM": 65000,
+            "priceL": 69000
+        },
+
+        {
+            "id": 12,
+            "name": "Freeze cookie and cream",
+            "class": "freeze",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463392033_1237864840756826_1951587841206243016_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeG24_AEj9d0ccrVlQuT1HxRCJRwgoSJAfYIlHCChIkB9rL_aTZf_uiRbDWPdEZ4aYlNZG73J5sCrBRXPnH0LuL7&_nc_ohc=0kB1PIHDmuwQ7kNvgGoPNCE&_nc_ht=scontent.fhan18-1.fna&_nc_gid=Al45q3KsrOz_4lPCrwztjaZ&oh=00_AYCdSWPItpKzGqnFvIAg4nRapHZQLlpsQ9Pm2wSCeB6rKw&oe=6715A9FD",
+            "describeProduct": "Một thức uống ngon lạ miệng bởi sự kết hợp hoàn hảo giữa cookies sô cô la giòn xốp cùng hỗn hợp sữa tươi cùng sữa đặc đem say với đá viên, và cuối cùng không thể thiếu được chính là lớp kem whip mềm mịn cùng cookies sô cô la say nhuyễn.",
+            "price": 55000,
+            "priceS": 55000,
+            "priceM": 65000,
+            "priceL": 69000
+        },
+
+        {
+            "id": 13,
+            "name": "Freeze caramel",
+            "class": "freeze",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463660825_1237864797423497_5867106136552876219_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEG-rJDpBlTyJMtt1r113gAmVUZhmQofiqZVRmGZCh-Kv0HNW9jBpugdiB0LRSQY3okAHC67v05oZ4_ZOpw45B-&_nc_ohc=udQwQBkSbbAQ7kNvgGPdz3Z&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AqAFK8WMHgW8ZNLf-hrb3bY&oh=00_AYBlFICnNp0DZE8_R7PZ3dgzz6dCZtaep-KNIs0nim6zJg&oe=6715B96A",
+            "describeProduct": "Thơm ngon khó cưỡng! Được kết hợp từ cà phê truyền thống chỉ có tại Koffee and Bistro, cùng với caramel, thạch cà phê và đá xay mát lạnh. Trên cùng là lớp kem tươi thơm béo và caramel ngọt ngào. Món nước phù hợp trong những cuộc gặp gỡ bạn bè, bởi sự ngọt ngào thường mang mọi người xích lại gần nhau.",
+            "price": 55000,
+            "priceS": 55000,
+            "priceM": 65000,
+            "priceL": 69000
+        },
+
+        {
+            "id": 14,
+            "name": "Freeze quả mọng anh đào",
+            "class": "freeze",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463439803_1237864907423486_5012878808746369402_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGeckxz29X8KCLsKITJj1O6dMjdp0JFP_t0yN2nQkU_-yMt4KkNfkn70uLf2wCQA2EArPmNrcVUA5Hv9DNjwnb6&_nc_ohc=A5wXpn3XB68Q7kNvgFjcWUa&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AVnyI2KsKTCAU8R8RDDSfT2&oh=00_AYCyfPM_baqzn9ABeDCAase-GdHnc43GyBVD78JdD1knLg&oe=6715A477",
+            "describeProduct": "Freeze Quả Mọng Anh Đào với kem béo đậm đà, hài hòa cùng vị chua của quả mọng và cherry, thỏa mãn vị giác.",
+            "status": "new",
+            "price": 55000,
+            "priceS": 55000,
+            "priceM": 65000,
+            "priceL": 69000
+        },
+
+        {
+            "id":15,
+            "name": "Phindi hạnh nhân",
+            "class": "phindi",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463745211_1237865140756796_5049521161888667206_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeE24g1p5lSiFW4ipTyZ8sNVH3h_QlB9NK0feH9CUH00rRkY-pYiD-S2CxDSL-9wB2mTyygvKwR7DGKWeDlSU7Un&_nc_ohc=52v_G1mp2K4Q7kNvgHnBDLi&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AkbFdXLWEmSnnyfVUEFPDNT&oh=00_AYAzpB4oPZmXoSZXtzOTU2W0_0rsnYWHLXFziS6w0c67pA&oe=6715AF0B",
+            "describeProduct": "PhinDi Hạnh Nhân - Cà phê Phin thế hệ mới với chất Phin êm hơn, kết hợp cùng Hạnh nhân thơm bùi mang đến hương vị mới lạ, không thể hấp dẫn hơn!",
+            "sell":"best seller",
+            "price": 45000,
+            "priceS": 45000,
+            "priceM": 49000,
+            "priceL": 55000
+        },
+
+        {
+            "id":16,
+            "name": "Phindi kem sữa",
+            "class": "phindi",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463442816_1237865200756790_2176022876849468214_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFxu5OTFdLTpbvcsWfQWfom8NlOCA8Y0rTw2U4IDxjStIwMpgqfeq1kCTHZeAiYBnXWWMIywi-t7I-D67Yb967V&_nc_ohc=YGElMpiI4fYQ7kNvgEVvLlg&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AVAoH-vNNRBOVqlfxqKCI-r&oh=00_AYBl7KEc_hDZRr_ug4K3H6_HpRO6gmSvm4rZAt2-UD2nGg&oe=6715BBB9",
+            "describeProduct": "PhinDi Kem Sữa - Cà phê Phin thế hệ mới với chất Phin êm hơn, kết hợp cùng Kem Sữa béo ngậy mang đến hương vị mới lạ, không thể hấp dẫn hơn!",
+            "price": 45000,
+            "priceS": 45000,
+            "priceM": 49000,
+            "priceL": 55000
+        },
+
+        {
+            "id":17,
+            "name": "Phindi choco",
+            "class": "phindi",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463411070_1237865137423463_6099358556393895650_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGsdl3r6mrIogcOdlk5SG26g39vfjdmhayDf29-N2aFrL0B0QAK-X3EeEPVXRV5zlbtZMvw0i2g6tROEPUTqW5_&_nc_ohc=Vl6oqGBTGDAQ7kNvgElhbME&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AF9thY68dK_Oq8QOpNWafbh&oh=00_AYDR97yvpFKIZAuy2CqNJJsw9RlgwaQfn0mFHeukEePAEQ&oe=671585D1",
+            "describeProduct": "PhinDi Choco - Cà phê Phin thế hệ mới với chất Phin êm hơn, kết hợp cùng Choco ngọt tan mang đến hương vị mới lạ, không thể hấp dẫn hơn!",
+            "price": 45000,
+            "priceS": 45000,
+            "priceM": 49000,
+            "priceL": 55000
+        },
+
+        {
+            "id":18,
+            "name": "Espresso",
+            "class": "espresso",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463294755_1237864780756832_3514998720268505476_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFZEy8unzTogl3MsFoF4GWuobLOvO8aayyhss687xprLG1p7PgKkrTqjl6pg2I7vNu-2ozszsiqhf1aM4xMzoNl&_nc_ohc=HN9KdNhXuhsQ7kNvgFtkaCG&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AzKC2jDgIn6t7Uqi7eH05Jo&oh=00_AYBvOpszzsriAWsAVdh0Q9DwRHI0SJgBgjaephIv6Uv-Mw&oe=6715AFBE",
+            "describeProduct": "Đích thực là ly cà phê espresso ngon đậm đà! Được chiết xuất một cách hoàn hảo từ loại cà phê rang được phối trộn độc đáo từ những hạt cà phê Robusta và Arabica chất lượng hảo hạng.",
+            "price": 45000,
+            "priceS": 45000,
+            "priceM": 49000,
+            "priceL": 55000
+        },
+
+        {
+            "id":19,
+            "name": "Americano",
+            "class": "espresso",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463446838_1237864510756859_804299773056793470_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeG6lZZfPWHmdKyxTfCS2Osij78qky2cAHKPvyqTLZwAcoQmy6vUqlihu9pCeJvR7quI_ivVRLzPkXxyakk4fb7x&_nc_ohc=XDwdmNgO6AkQ7kNvgEB0khI&_nc_ht=scontent.fhan18-1.fna&_nc_gid=A_HtNfWl7livYJ178e-j3Iu&oh=00_AYBc5UfoNRUTJYzChr6c4Tbl5rJ7VICuU8WkJuZkwnEmRg&oe=67159F2F",
+            "describeProduct": "Americano tại Koffee and Bistro là sự kết hợp giữa cà phê espresso thêm vào nước đun sôi. Bạn có thể tùy thích lựa chọn uống nóng hoặc dùng chung với đá.",
+            "price": 45000,
+            "priceS": 45000,
+            "priceM": 49000,
+            "priceL": 55000
+        },
+
+        {
+            "id":20,
+            "name": "Latte",
+            "class": "espresso",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463432061_1237865027423474_2031132371005676733_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFbRq7wP-t9b0YFwgLyh2aZEXcWR4_gXlkRdxZHj-BeWU8A7Xh99vhaH4rPTkzdTNiRvHOPI-BIQU8piCj1K0iN&_nc_ohc=79SrzKX897UQ7kNvgHBMgiw&_nc_ht=scontent.fhan18-1.fna&_nc_gid=APPXL-7llc0IGgr_ctKEr64&oh=00_AYDmeb-yufK8eyGFBbYz-lPDw5KsB9aCBt2tNStqi3rEfg&oe=6715A6F6",
+            "describeProduct": "Ly cà phê sữa ngọt ngào đến khó quên! Với một chút nhẹ nhàng hơn so với Cappuccino, Latte của chúng tôi bắt đầu với cà phê espresso, sau đó thêm sữa tươi và bọt sữa một cách đầy nghệ thuật. Bạn có thể tùy thích lựa chọn uống nóng hoặc dùng chung với đá.",
+            "price": 65000,
+            "priceS": 65000,
+            "priceM": 75000,
+            "priceL": 79000
+        },
+
+        {
+            "id":21,
+            "name": "Capuchino",
+            "class": "espresso",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463493532_1237864707423506_3550826328187962095_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEUTWin2K5n1H3co1lDdv1Q17EEoWQlPi3XsQShZCU-LUBFxos4WpqO3e5mU4N9JmFXsENstacv549I8hGqjY9z&_nc_ohc=2D77Ulf57P0Q7kNvgG1emiH&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AmPS18olKh6LFMJKIqsVMP4&oh=00_AYDP5ZCrwvq3xg5kpwksQLMh4sLktNeX9OCzdeLfofplNg&oe=6715908F",
+            "describeProduct": "Ly cà phê sữa đậm đà thời thượng! Một chút đậm đà hơn so với Latte, Cappuccino của chúng tôi bắt đầu với cà phê espresso, sau đó thêm một lượng tương đương giữa sữa tươi và bọt sữa cho thật hấp dẫn. Bạn có thể tùy thích lựa chọn uống nóng hoặc dùng chung với đá.",
+            "price": 45000,
+            "priceS": 45000,
+            "priceM": 49000,
+            "priceL": 55000
+        },
+
+        {
+            "id":22,
+            "name": "Caramel Macchiato",
+            "class": "espresso",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463632711_1237864734090170_1028779155880219744_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFvJX6St_j4ZME4De-mzrxr2VsZtwULT9PZWxm3BQtP06tWxG59htY2Jg7NPMjrKwqyOOGKrZiEpUPh5HOeg94L&_nc_ohc=G6aLuvL7tesQ7kNvgG4qqpK&_nc_ht=scontent.fhan18-1.fna&_nc_gid=Ap38PuFy96Zo6M06uX9hFKp&oh=00_AYDdMQZheVB4b35_IFe69uKOyAjQ9nigtGbBquK49n3YwQ&oe=67158A4C",
+            "describeProduct": "Caramel Macchiato với hương vị của cà phê espresso đăng đắng và sữa tươi ngọt dịu. Tạo hình trang trí tỉ mỉ bằng lớp bọt sữa.",
+            "price": 69000,
+            "priceS": 69000,
+            "priceM": 79000,
+            "priceL": 85000
+        },
+
+        {
+            "id":23,
+            "name": "Bánh mì que pate",
+            "class": "cake",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463385567_1237864607423516_1907045466641545492_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEZaPRQJoXB9EsVOX7M2K2Wi1ijxfottTqLWKPF-i21OnuJGyg9ZVDMH-v-9rwLP3uSBZNL2fr0ApLccvfZlBQr&_nc_ohc=n6cOw8sqv9sQ7kNvgH6xMii&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AEAoiwCvhY1msOhdbtuW-Ip&oh=00_AYDd6Dg1IzLMqLswfJesm_TUQjf4fak3y-uRHxuMpwuZQA&oe=6715BE17",
+            "describeProduct": "Bánh Mì Que Pate nóng hổi, vừa giòn giòn, vừa kết hợp cùng chút beo béo ngầy ngậy của pa tê.",
+            "sell":"best seller",
+            "price": 19000
+        },
+
+        {
+            "id":24,
+            "name": "Bánh mì que gà phomai",
+            "class": "cake",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463397803_1237864574090186_4439053355043651584_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHAt4jnwKZvjJR_xOC9LfbIVtIOIHn0QWNW0g4gefRBY_7IaNlSiJBuTsnN7BfUQgQX7PSasOPvkCmxH4CP5v2b&_nc_ohc=QnMH50VrtFEQ7kNvgEh0Kyo&_nc_ht=scontent.fhan18-1.fna&_nc_gid=A6w1N--gYGhzH6bRdhFrE5v&oh=00_AYDDEmYf91sMTBaeJoGy9SqN8vcgjWi7oGJr27Cq9m3ubg&oe=67159199",
+            "describeProduct": "Bánh Mì Que Gà Phô Mai nóng giòn, béo ngậy vị gà phô mai,  thích hợp nhâm nhi cùng trà.",
+            "sell":"best seller",
+            "price": 19000
+        },
+
+        {
+            "id":25,
+            "name": "Bánh trà xanh",
+            "class": "cake",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463657937_1237865237423453_4846148295336222939_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGI_xkaL7Cx5PS8EggRtrJ4EPjTsQfY9W0Q-NOxB9j1bcDqa8CnmYEP12dfFT7ojF79-wOnEsZdb8-WFKjAQ5rm&_nc_ohc=BhaxcmLC6LMQ7kNvgGML0yG&_nc_ht=scontent.fhan18-1.fna&_nc_gid=ABM1PfAixEQxRbtF_3iDaW6&oh=00_AYDf3PQRzG96WAeBNU03KDALZXOQMaYQmo-v-u3Tsrz6nw&oe=6715A95E",
+            "describeProduct": "Bánh Phô Mai Trà Xanh là một sự sáng tạo mới mẻ, kết hợp giữa trà xanh đậm đà và phô mai ít béo.",
+            "price": 35000
+        },
+
+        {
+            "id":26,
+            "name": "Bánh caramel",
+            "class": "cake",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463493199_1237865234090120_8209048395346702808_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEMr7Vj2wMK3-PdG8-tUzxYHm5pzGNijIoebmnMY2KMiquhXM6cMf-yM1mwlL2tg0BMGT-_Frg7TmmYB0Ki1iWk&_nc_ohc=e7XPal1pr4YQ7kNvgG7fhSV&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AfCAvHiCDzdhcLPMD0HiR8o&oh=00_AYBtQMWOkelf5zfWpsJz9QyMqz99rjoXALQIGw3KeOuyQw&oe=6715A82B",
+            "describeProduct": "Ngon khó cưỡng! Bánh phô mai thơm béo được phủ bằng lớp caramel ngọt ngào.",
+            "price": 35000
+        },
+
+        {
+            "id":27,
+            "name": "Bánh mousse đào",
+            "class": "cake",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463392355_1237865024090141_5655206752397928786_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGBIL-8_mdGZjcNckUzlrFqVQrmsUCzgE9VCuaxQLOATw9SUQJqn7pJ7X94CeE50bRWHELlO_lb2UCj-xUO17eD&_nc_ohc=YMz_3r82qqwQ7kNvgHudfyv&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AHlciSdKOyr69ccm7VZyqXZ&oh=00_AYDCisIB6_Yk_8gcNWoiBB8ZX9A5AQ6oxj0V4KI6EAWHNg&oe=6715B20D",
+            "describeProduct": "Một sự kết hợp khéo léo giữa kem và lớp bánh mềm, được phủ lên trên vài lát đào ngon tuyệt.",
+            "price": 35000
+        },
+
+        {
+            "id":28,
+            "name": "Bánh mousse cacao",
+            "class": "cake",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463438134_1237864687423508_128250626689140705_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEnuMgUjsPtIMzPtKJapY4YCHX2MmJGVIUIdfYyYkZUhWm0gw4N_RrD4TUaFpoCuumDDV80z-rdrfqalcsTsUEm&_nc_ohc=-D_3sBBe5ZMQ7kNvgFiLcO8&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AfikwEkfRz14uBSo6SM40gO&oh=00_AYAtaKolrMqd9BoDYcSlFzM-jTtHgBx7mg_5NNUR_DH1zQ&oe=67159350",
+            "describeProduct": "Bánh Mousse Ca Cao, là sự kết hợp giữa ca-cao Việt Nam đậm đà cùng kem tươi.",
+            "price": 39000
+        },
+
+        {
+            "id":29,
+            "name": "Bánh socola",
+            "class": "cake",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463362164_1237864617423515_5546527145593861251_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEMEwfisJT--mAEFS6gj6JlFfSWjO7nTh4V9JaM7udOHnr6MJxJAUaaADUApM0RcpdPNxmySiHpTVeFELFUwDsM&_nc_ohc=ySdgK7FWSgwQ7kNvgEW2ptV&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AXIrUubd6etrDuKJhftiZCC&oh=00_AYABEQKsOxog3txscd-CVBbZ27nTruDLdS3KqoJN2kKfiw&oe=67159E26",
+            "describeProduct": "Một chiếc bánh độc đáo! Sô cô la ngọt ngào và kem tươi béo ngậy, được phủ thêm một lớp sô cô la mỏng bên trên cho thêm phần hấp dẫn.",
+            "price": 39000
+        },
+
+        {
+            "id":30,
+            "name": "Bánh chuối",
+            "class": "cake",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463602247_1237864500756860_5880519431252386387_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEQ0XzQg6CDmprSCCObT2bXGssBZIZF1I8aywFkhkXUjwwp4eTHKWoZwoOpJKV3Oe0RKzXz3pzOqPqly91H3Phu&_nc_ohc=gVU7rqGWdU8Q7kNvgFGvOSi&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AGwM2AqzYbpaMTH_KwhSMOS&oh=00_AYAVbG9Q5RtX2aU5J6jPh3tZy8cw7Y237MUE_iIOh4ww5A&oe=6715BC43",
+            "describeProduct": "Bánh chuối truyền thống, sự kết hợp của 100% chuối tươi và nước cốt dừa Việt Nam",
+            "price": 35000
+        },
+
+        {
+            "id": 31,
+            "name": "Cà phê truyền thống 1kg",
+            "class" : "bartending at home",
+            "image" : "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463442805_1238492494027394_6766361206017785411_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHiUbDz2UPd97znM9E0LtIFnwRORDbimQWfBE5ENuKZBRKKntZtHkhAjzsr_33ePhaDMV-7AqW6uv7SsCHkHzEl&_nc_ohc=lgGL_P8QnekQ7kNvgGc7SXH&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AGd1KGZfmjVOONi4gSqgjIE&oh=00_AYD_G1z3TrUA80N78kLPR6fM2fLJsM1zsAcdq3qTZHnX3w&oe=6716F34E",
+            "price": 375000,
+            "instructImage1": "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463664140_1238630387346938_847424253322790710_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGbZxyDmyxVgeqIETChSN75mlC9rObLnGuaUL2s5suca_Zs-c53lVFNHPZ7UXZ_XgKiJi3cvowkwEobZVcyo7_R&_nc_ohc=u6Rmz2Hd5msQ7kNvgE9x9w2&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AacZAbvn4dIzyqgi15Y9k4r&oh=00_AYBz_vbs3THPE24-pgSh7JAb7UbbaqY_j6sGbtVhUzUbUA&oe=6716EC57",
+            "instructImage2":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463603746_1238630314013612_2347323996497865127_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHbfN5Vcpac3hxnQ4RnbH9mJN9UqfydS20k31Sp_J1LbUqqpNEkumiSO3SGwPkbyUTh8Z4hxicE9s1pdx73k92L&_nc_ohc=fQOmDVWs_6QQ7kNvgG9zYjL&_nc_ht=scontent.fhan18-1.fna&_nc_gid=ABFV1fO4QqORrACWeX27eAW&oh=00_AYBb1q9AbUseYrYm8sXRVPVUE_cvtbnykVD36BVuAJLkmg&oe=6716E207",
+            "instructImage3":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463668804_1238630310680279_4221902616279299971_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGOf7UVntFbU_l4cjSt33FnvgGRZOd0qZq-AZFk53Spmpz5G80zW4v6KjEn9Akps7XtF_DNkcZOIc53vOv1p49h&_nc_ohc=VzN5RB_fMK0Q7kNvgHPMxAY&_nc_ht=scontent.fhan18-1.fna&_nc_gid=A__8bhbobZMYo007ENrZYZj&oh=00_AYBScJwDZSibKG9eksH_fu5l7hTaU12fyw_E_MANciBTYg&oe=6716FA86",
+            "instructImage4":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463596266_1238630514013592_548064830322995473_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeH6nj4xLWd6bvpADGf87tJvjoRk7xmSuPiOhGTvGZK4-B1Tm7R9S9MGQNeDWpDIeUVVxkfkboUNlO4xBfNgiyGT&_nc_ohc=RZ9zJIy_A5UQ7kNvgG9BtUt&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AqaAA5hSSU1pTglTc9cwhSc&oh=00_AYDWXfiETA5BgcYwBt9nliu60PwcSxmI_zkdua5ff2u3-Q&oe=6716E8D3",
+            "instructImage5":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463438503_1238630377346939_4598543123881275754_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEt3uzeC2nZ7IMGUbYPiToTZJ0rgejKiLRknSuB6MqItB9RYeKT7igFQ2fgjn_XTxh3pEhSWAucZ9x-qvgbZx29&_nc_ohc=q2tExMg-sykQ7kNvgG0blxt&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AZXTONS_q0FzsFKxmq4BYCn&oh=00_AYBuerv6R1qf49A-MSIB3imM8kVn25SeQyoqEQOUMs7w-w&oe=6716FB55",
+            "describeProduct": "Sự kết hợp hài hòa giữa Arabica và Robusta. Vị đậm và ngọt đầy. Là sản phẩm đặc sản của của café Sữa Đá, Café Đá của hệ thống Koffee and Bistro. 80% Robusta – 20% Arabica."
+
+        },
+
+        {
+            "id": 32,
+            "name": "Espresso 1kg",
+            "class" : "bartending at home",
+            "image" : "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463441476_1238492587360718_5640112821872211076_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHdIu9_UpJs3DicfCdrvz2WQAV16w-vSK1ABXXrD69IrdZeBrlI1dxA7mPd3TEL9C2OP4bkRRuXuXaU84QBrclv&_nc_ohc=sR-8_AzXa2AQ7kNvgH573cK&_nc_ht=scontent.fhan18-1.fna&_nc_gid=ASW-1ya2bE9D92t7GfKke3D&oh=00_AYBzl8ppdXQogq5YfHnXhAl-JQ8BopUTn0vE-PG9oeSzwg&oe=67171305",
+            "price": 505000,
+            "instructImage1": "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463665408_1238630480680262_4136088509960066419_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHIFGikqWsZ0r7LXnxft9CnpUj3RKyVop2lSPdErJWinWYDoB1e1FVBHGsEwuH_HV2Pv5Lv4Q2PT93WYD3nThma&_nc_ohc=86MQD4-frnUQ7kNvgHgdNl8&_nc_ht=scontent.fhan18-1.fna&_nc_gid=A8M5uFWUx-LdcvEHR0jykHX&oh=00_AYD8kuKXGXwn6KyDSjaaVGcpm49uUg_WB0mkyiXMp2Awyw&oe=6716F534",
+            "instructImage2":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463730962_1238630374013606_7742346643299287221_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHh_FqQQD-bxk1MxmMFynKu-C_aYbz6Tcv4L9phvPpNy1Z1eF4ZJ34dxBDsyNU5g0OMVtdIChrmRyni8XlaSFFq&_nc_ohc=_umqxM3b6y8Q7kNvgGcuO_u&_nc_ht=scontent.fhan18-1.fna&_nc_gid=Ax1tQOCmcNLRG1BUjW_93uE&oh=00_AYCf8uZPxkttnkzBCd9SbZLr-VNL8YyoWx4h5Zc77jg4LA&oe=6717075D",
+            "instructImage3":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463668804_1238630310680279_4221902616279299971_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGOf7UVntFbU_l4cjSt33FnvgGRZOd0qZq-AZFk53Spmpz5G80zW4v6KjEn9Akps7XtF_DNkcZOIc53vOv1p49h&_nc_ohc=VzN5RB_fMK0Q7kNvgHPMxAY&_nc_ht=scontent.fhan18-1.fna&_nc_gid=A__8bhbobZMYo007ENrZYZj&oh=00_AYBScJwDZSibKG9eksH_fu5l7hTaU12fyw_E_MANciBTYg&oe=6716FA86",
+            "instructImage4":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463596266_1238630514013592_548064830322995473_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeH6nj4xLWd6bvpADGf87tJvjoRk7xmSuPiOhGTvGZK4-B1Tm7R9S9MGQNeDWpDIeUVVxkfkboUNlO4xBfNgiyGT&_nc_ohc=RZ9zJIy_A5UQ7kNvgG9BtUt&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AqaAA5hSSU1pTglTc9cwhSc&oh=00_AYDWXfiETA5BgcYwBt9nliu60PwcSxmI_zkdua5ff2u3-Q&oe=6716E8D3",
+            "instructImage5":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463584141_1238630580680252_5505561021693425641_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHanasCoRMobAGP-qu8InfjE8S2vYGvmdwTxLa9ga-Z3HqUxPK9s7aOZDPV2YCdSZBZCCYb60pVmVPDJEp7CJbP&_nc_ohc=M_k2sMwIiHYQ7kNvgHC4-LR&_nc_ht=scontent.fhan18-1.fna&_nc_gid=A419gsmcWAC7mWOZvDt8j_Z&oh=00_AYAE92z2t6grcuGJOxwDIxDljrFeGRH2L_QkU5WtW0fOsg&oe=6716F1F9",
+            "describeProduct": "Cà phê hạt Full City Roast là sự kết hợp hài hòa giữa hạt Arabica và Robusta. 70% Arabica - 30% Robusta. Sản phẩm làm nên sự nổi tiếng đặc trưng của ly cà phê Espresso của Koffee and Bistro Vị đậm, thơm đặc trưng."
+
+        },
+
+        {
+            "id": 33,
+            "name": "Trà hương lài",
+            "class" : "bartending at home",
+            "image" : "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463656537_1238492647360712_3607447264750941819_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeF-4EFrV7mCVTxlOl4rdnBDIlzldK3Z--8iXOV0rdn771di6gOkKODr6-9uQ2juCmFRyGtDE2PmT-O4ZVkseoYB&_nc_ohc=9j7tT2Co51oQ7kNvgGaxbq1&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AJZmrshHREO0hueinelNHbr&oh=00_AYAYbt9zJD-EvOMyRYUz4-aL-tBmDzx3NQLAaCXyTMU6yg&oe=67170D5E",
+            "price": 75000,
+            "instructImage1": "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463439846_1238630630680247_3234620683871775208_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFQ_pPPGa6YHitouVwqRRLoGfxE7T7ETBUZ_ETtPsRMFfAfHS38nhMlRdO_cfa8IKJxUEEc_3qEJWhADnyHq12J&_nc_ohc=D5n87pm6icAQ7kNvgEPlcib&_nc_ht=scontent.fhan18-1.fna&_nc_gid=A4KW-XKQrkIZPLfWwF0qQGE&oh=00_AYCFsKZvhqJveMRvscZosP3EvdJfQjbdqDzxl9jPb_0XNw&oe=6716F661",
+            "instructImage2":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463730544_1238630597346917_5135103278924616269_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHpsEHHhdZVJJc-vwE0O3oaAF-H32TK0aUAX4ffZMrRpddZQRjY8FI79HkuyW4BW3vmBzbi4qtsZBp0ttE1TUzd&_nc_ohc=sfKkfr8aC-0Q7kNvgFwG_j_&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AwnTplUvRSswwFLyxodWONj&oh=00_AYAqzv8gcR33Lvsi4w8wQzI2JwXgUZrkllOojlsppgDQMg&oe=6716F14B",
+            "instructImage3":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463877029_1238630707346906_5808665396357449765_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeF0mISZeT1G9KBGLorGrHZZoHfyEQ88kEygd_IRDzyQTCqKrMg7dugYafQvqlcPwZJIG5RcRmg6kAFs2rUhEeTr&_nc_ohc=-oAtTrvCrCAQ7kNvgFTKodZ&_nc_ht=scontent.fhan18-1.fna&_nc_gid=Aofm72CRENuQw7T-AidDo1l&oh=00_AYDCthlfDWkWTfHTvJDGx6XWCw0kz9sQnvJbqv9tNYXczA&oe=6716F1F6",
+            "instructImage4":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463627145_1238630694013574_156366254072076495_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGXB5IEWsZBZFEoO8ts1WiI-clOAU0k7D35yU4BTSTsPW23XV5U9MLq7asx0HWq6oEEO1_irtv0sjeEMVmooXnn&_nc_ohc=89fi6rXqyCgQ7kNvgFQWuvp&_nc_ht=scontent.fhan18-1.fna&_nc_gid=Afj6xOOtcXW4NPfYSPIZxHD&oh=00_AYCVlOdUq0Rc8Z7iWSNVCPkcLJbxLUriiSt_B_sXfVUCTA&oe=6716FB13",
+            "instructImage5":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463724836_1238630720680238_8492634871080246179_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFDF4Ar5H4OYTcugBbFVPCRtPqt_Y1hxiu0-q39jWHGK97Nvuv9scvuUxGBBD1smJCOesEm6x5jnjy61Z-rEsbK&_nc_ohc=-rZ4jsz-KvQQ7kNvgGmeXCU&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AKCDSzFRrz9NtSRhZzPa9E8&oh=00_AYDTKkRExGMsyK9ZJZV7trpHH8P9cnpZ2xDIIMqc7I9HWg&oe=67170DBC",
+            "describeProduct": "Trà là một loại đồ uống truyền thống có nhiều hương vị đa dạng, trong số đó trà lài được biết đến như một đại danh trà. Trà Phúc Long được chế biến bằng phương pháp độc đáo, tạo nên một hương vị đặc trưng không thể nhầm lẫn. Trà lài túi lọc Phúc Long hộp 50g là một lựa chọn hoàn hảo cho những ai yêu thích trà lài và muốn tận hưởng một trải nghiệm trà tinh tế và đáng nhớ của loại trà này."
+
+        },
+
+        {
+            "id": 34,
+            "name": "Cà phê truyền thống 250g",
+            "class" : "bartending at home",
+            "image" : "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463410810_1238492667360710_4675161848842091811_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeF9BU-Gf9sw2iIVFWa1ltKoQZGRZwLjVT5BkZFnAuNVPnT9qg8A8J3VHMWyldwdpISx4ndlEMLgB6cwtbV2NWcu&_nc_ohc=Ny0j1rKp3WAQ7kNvgH6pQC7&_nc_ht=scontent.fhan18-1.fna&_nc_gid=ArP0jO_BtwMRq-S77i3AIkE&oh=00_AYCC6YYjG-d2NZY9kIvRg6hBtseabdhq_K6oARdUyeLQTg&oe=6716FDA6",
+            "price": 75000,
+            "instructImage1": "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463664140_1238630387346938_847424253322790710_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGbZxyDmyxVgeqIETChSN75mlC9rObLnGuaUL2s5suca_Zs-c53lVFNHPZ7UXZ_XgKiJi3cvowkwEobZVcyo7_R&_nc_ohc=u6Rmz2Hd5msQ7kNvgE9x9w2&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AacZAbvn4dIzyqgi15Y9k4r&oh=00_AYBz_vbs3THPE24-pgSh7JAb7UbbaqY_j6sGbtVhUzUbUA&oe=6716EC57",
+            "instructImage2":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463603746_1238630314013612_2347323996497865127_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHbfN5Vcpac3hxnQ4RnbH9mJN9UqfydS20k31Sp_J1LbUqqpNEkumiSO3SGwPkbyUTh8Z4hxicE9s1pdx73k92L&_nc_ohc=fQOmDVWs_6QQ7kNvgG9zYjL&_nc_ht=scontent.fhan18-1.fna&_nc_gid=ABFV1fO4QqORrACWeX27eAW&oh=00_AYBb1q9AbUseYrYm8sXRVPVUE_cvtbnykVD36BVuAJLkmg&oe=6716E207",
+            "instructImage3":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463668804_1238630310680279_4221902616279299971_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGOf7UVntFbU_l4cjSt33FnvgGRZOd0qZq-AZFk53Spmpz5G80zW4v6KjEn9Akps7XtF_DNkcZOIc53vOv1p49h&_nc_ohc=VzN5RB_fMK0Q7kNvgHPMxAY&_nc_ht=scontent.fhan18-1.fna&_nc_gid=A__8bhbobZMYo007ENrZYZj&oh=00_AYBScJwDZSibKG9eksH_fu5l7hTaU12fyw_E_MANciBTYg&oe=6716FA86",
+            "instructImage4":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463596266_1238630514013592_548064830322995473_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeH6nj4xLWd6bvpADGf87tJvjoRk7xmSuPiOhGTvGZK4-B1Tm7R9S9MGQNeDWpDIeUVVxkfkboUNlO4xBfNgiyGT&_nc_ohc=RZ9zJIy_A5UQ7kNvgG9BtUt&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AqaAA5hSSU1pTglTc9cwhSc&oh=00_AYDWXfiETA5BgcYwBt9nliu60PwcSxmI_zkdua5ff2u3-Q&oe=6716E8D3",
+            "instructImage5":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463438503_1238630377346939_4598543123881275754_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEt3uzeC2nZ7IMGUbYPiToTZJ0rgejKiLRknSuB6MqItB9RYeKT7igFQ2fgjn_XTxh3pEhSWAucZ9x-qvgbZx29&_nc_ohc=q2tExMg-sykQ7kNvgG0blxt&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AZXTONS_q0FzsFKxmq4BYCn&oh=00_AYBuerv6R1qf49A-MSIB3imM8kVn25SeQyoqEQOUMs7w-w&oe=6716FB55",
+            "describeProduct": "Sự kết hợp hài hòa giữa Arabica và Robusta. Vị đậm và ngọt đầy. Là sản phẩm đặc sản của của café Sữa Đá, Café Đá của hệ thống Koffee and Bistro. 80% Robusta – 20% Arabica."
+
+        },
+
+        {
+            "id": 35,
+            "name": "Cà phê Culi 250g",
+            "class" : "bartending at home",
+            "image" : "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463603053_1238492490694061_2299494865307803829_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGnTO2knh6KEYFp9x-9EaLFhNEi_RjKpqOE0SL9GMqmo6sR6oj_nbQlGaSGmC3_qkdkHJK6UUsRXE5Vtw5wwi6k&_nc_ohc=PNelkLL2qNcQ7kNvgGrYtNg&_nc_ht=scontent.fhan18-1.fna&_nc_gid=A3HeDgwETOYQEQN4fRDAzCj&oh=00_AYAF68TRm55X9YC6o6SAYcfOJ_GgIwLJerbrxwbfsp-P-w&oe=6716E8C5",
+            "price": 79000,
+            "instructImage1": "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463664140_1238630387346938_847424253322790710_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGbZxyDmyxVgeqIETChSN75mlC9rObLnGuaUL2s5suca_Zs-c53lVFNHPZ7UXZ_XgKiJi3cvowkwEobZVcyo7_R&_nc_ohc=u6Rmz2Hd5msQ7kNvgE9x9w2&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AacZAbvn4dIzyqgi15Y9k4r&oh=00_AYBz_vbs3THPE24-pgSh7JAb7UbbaqY_j6sGbtVhUzUbUA&oe=6716EC57",
+            "instructImage2":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463603746_1238630314013612_2347323996497865127_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHbfN5Vcpac3hxnQ4RnbH9mJN9UqfydS20k31Sp_J1LbUqqpNEkumiSO3SGwPkbyUTh8Z4hxicE9s1pdx73k92L&_nc_ohc=fQOmDVWs_6QQ7kNvgG9zYjL&_nc_ht=scontent.fhan18-1.fna&_nc_gid=ABFV1fO4QqORrACWeX27eAW&oh=00_AYBb1q9AbUseYrYm8sXRVPVUE_cvtbnykVD36BVuAJLkmg&oe=6716E207",
+            "instructImage3":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463668804_1238630310680279_4221902616279299971_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGOf7UVntFbU_l4cjSt33FnvgGRZOd0qZq-AZFk53Spmpz5G80zW4v6KjEn9Akps7XtF_DNkcZOIc53vOv1p49h&_nc_ohc=VzN5RB_fMK0Q7kNvgHPMxAY&_nc_ht=scontent.fhan18-1.fna&_nc_gid=A__8bhbobZMYo007ENrZYZj&oh=00_AYBScJwDZSibKG9eksH_fu5l7hTaU12fyw_E_MANciBTYg&oe=6716FA86",
+            "instructImage4":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463596266_1238630514013592_548064830322995473_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeH6nj4xLWd6bvpADGf87tJvjoRk7xmSuPiOhGTvGZK4-B1Tm7R9S9MGQNeDWpDIeUVVxkfkboUNlO4xBfNgiyGT&_nc_ohc=RZ9zJIy_A5UQ7kNvgG9BtUt&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AqaAA5hSSU1pTglTc9cwhSc&oh=00_AYDWXfiETA5BgcYwBt9nliu60PwcSxmI_zkdua5ff2u3-Q&oe=6716E8D3",
+            "instructImage5":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463438503_1238630377346939_4598543123881275754_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEt3uzeC2nZ7IMGUbYPiToTZJ0rgejKiLRknSuB6MqItB9RYeKT7igFQ2fgjn_XTxh3pEhSWAucZ9x-qvgbZx29&_nc_ohc=q2tExMg-sykQ7kNvgG0blxt&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AZXTONS_q0FzsFKxmq4BYCn&oh=00_AYBuerv6R1qf49A-MSIB3imM8kVn25SeQyoqEQOUMs7w-w&oe=6716FB55",
+            "describeProduct": "Sự kết hợp hài hòa giữa Arabica và Robusta. Vị đậm và ngọt đầy. Là sản phẩm đặc sản của của café Sữa Đá, Café Đá của hệ thống Koffee and Bistro. 80% Robusta – 20% Arabica."
+
+        },
+
+        {
+            "id": 36,
+            "name": "Cà phê chữ S 250g",
+            "class" : "bartending at home",
+            "image" : "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463826810_1238492487360728_2548369428189194577_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFAZnogc2m9S9n-0ZXvjk2oNjDfRmN0zUw2MN9GY3TNTMpGfw4VpjyDegDQ-8glrMJr2OWABp_xa7okpkHvP95a&_nc_ohc=btEJ_MVGNzkQ7kNvgHdFkWq&_nc_ht=scontent.fhan18-1.fna&_nc_gid=Aa2TjqmOD6TCGheGaeKO7KR&oh=00_AYAM0oWahqKdA-SrToKMsCKZZ1v9L9cvNUav3FSHodkKVw&oe=67170DA0",
+            "price": 79000,
+            "instructImage1": "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463664140_1238630387346938_847424253322790710_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGbZxyDmyxVgeqIETChSN75mlC9rObLnGuaUL2s5suca_Zs-c53lVFNHPZ7UXZ_XgKiJi3cvowkwEobZVcyo7_R&_nc_ohc=u6Rmz2Hd5msQ7kNvgE9x9w2&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AacZAbvn4dIzyqgi15Y9k4r&oh=00_AYBz_vbs3THPE24-pgSh7JAb7UbbaqY_j6sGbtVhUzUbUA&oe=6716EC57",
+            "instructImage2":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463603746_1238630314013612_2347323996497865127_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHbfN5Vcpac3hxnQ4RnbH9mJN9UqfydS20k31Sp_J1LbUqqpNEkumiSO3SGwPkbyUTh8Z4hxicE9s1pdx73k92L&_nc_ohc=fQOmDVWs_6QQ7kNvgG9zYjL&_nc_ht=scontent.fhan18-1.fna&_nc_gid=ABFV1fO4QqORrACWeX27eAW&oh=00_AYBb1q9AbUseYrYm8sXRVPVUE_cvtbnykVD36BVuAJLkmg&oe=6716E207",
+            "instructImage3":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463668804_1238630310680279_4221902616279299971_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGOf7UVntFbU_l4cjSt33FnvgGRZOd0qZq-AZFk53Spmpz5G80zW4v6KjEn9Akps7XtF_DNkcZOIc53vOv1p49h&_nc_ohc=VzN5RB_fMK0Q7kNvgHPMxAY&_nc_ht=scontent.fhan18-1.fna&_nc_gid=A__8bhbobZMYo007ENrZYZj&oh=00_AYBScJwDZSibKG9eksH_fu5l7hTaU12fyw_E_MANciBTYg&oe=6716FA86",
+            "instructImage4":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463596266_1238630514013592_548064830322995473_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeH6nj4xLWd6bvpADGf87tJvjoRk7xmSuPiOhGTvGZK4-B1Tm7R9S9MGQNeDWpDIeUVVxkfkboUNlO4xBfNgiyGT&_nc_ohc=RZ9zJIy_A5UQ7kNvgG9BtUt&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AqaAA5hSSU1pTglTc9cwhSc&oh=00_AYDWXfiETA5BgcYwBt9nliu60PwcSxmI_zkdua5ff2u3-Q&oe=6716E8D3",
+            "instructImage5":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463438503_1238630377346939_4598543123881275754_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEt3uzeC2nZ7IMGUbYPiToTZJ0rgejKiLRknSuB6MqItB9RYeKT7igFQ2fgjn_XTxh3pEhSWAucZ9x-qvgbZx29&_nc_ohc=q2tExMg-sykQ7kNvgG0blxt&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AZXTONS_q0FzsFKxmq4BYCn&oh=00_AYBuerv6R1qf49A-MSIB3imM8kVn25SeQyoqEQOUMs7w-w&oe=6716FB55",
+            "describeProduct": "Sự kết hợp hài hòa giữa Arabica và Robusta. Vị đậm và ngọt đầy. Là sản phẩm đặc sản của của café Sữa Đá, Café Đá của hệ thống Koffee and Bistro. 80% Robusta – 20% Arabica."
+
+        },
+
+        {
+            "id": 37,
+            "name": "Espresso 250g",
+            "class" : "bartending at home",
+            "image" : "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463621294_1238492577360719_507147544903344771_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHShH0cxcsK4DnRgay5uwa1Elg_QUBRENoSWD9BQFEQ2r8uBoPKX0rwqUfmm6BlZoaEseiStAE8KK6igJNkD8jM&_nc_ohc=9Y1M-4BZNAkQ7kNvgG4WsA8&_nc_ht=scontent.fhan18-1.fna&_nc_gid=ALCJ1MFBWLDn5dyc529ldGb&oh=00_AYDAKmss5qnzWhnP142aqeTHVwkj7ySw81wPLOTW36YbiQ&oe=6716F4EB",
+            "price": 149000,
+            "instructImage1": "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463665408_1238630480680262_4136088509960066419_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHIFGikqWsZ0r7LXnxft9CnpUj3RKyVop2lSPdErJWinWYDoB1e1FVBHGsEwuH_HV2Pv5Lv4Q2PT93WYD3nThma&_nc_ohc=86MQD4-frnUQ7kNvgHgdNl8&_nc_ht=scontent.fhan18-1.fna&_nc_gid=A8M5uFWUx-LdcvEHR0jykHX&oh=00_AYD8kuKXGXwn6KyDSjaaVGcpm49uUg_WB0mkyiXMp2Awyw&oe=6716F534",
+            "instructImage2":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463730962_1238630374013606_7742346643299287221_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHh_FqQQD-bxk1MxmMFynKu-C_aYbz6Tcv4L9phvPpNy1Z1eF4ZJ34dxBDsyNU5g0OMVtdIChrmRyni8XlaSFFq&_nc_ohc=_umqxM3b6y8Q7kNvgGcuO_u&_nc_ht=scontent.fhan18-1.fna&_nc_gid=Ax1tQOCmcNLRG1BUjW_93uE&oh=00_AYCf8uZPxkttnkzBCd9SbZLr-VNL8YyoWx4h5Zc77jg4LA&oe=6717075D",
+            "instructImage3":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463668804_1238630310680279_4221902616279299971_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGOf7UVntFbU_l4cjSt33FnvgGRZOd0qZq-AZFk53Spmpz5G80zW4v6KjEn9Akps7XtF_DNkcZOIc53vOv1p49h&_nc_ohc=VzN5RB_fMK0Q7kNvgHPMxAY&_nc_ht=scontent.fhan18-1.fna&_nc_gid=A__8bhbobZMYo007ENrZYZj&oh=00_AYBScJwDZSibKG9eksH_fu5l7hTaU12fyw_E_MANciBTYg&oe=6716FA86",
+            "instructImage4":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463596266_1238630514013592_548064830322995473_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeH6nj4xLWd6bvpADGf87tJvjoRk7xmSuPiOhGTvGZK4-B1Tm7R9S9MGQNeDWpDIeUVVxkfkboUNlO4xBfNgiyGT&_nc_ohc=RZ9zJIy_A5UQ7kNvgG9BtUt&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AqaAA5hSSU1pTglTc9cwhSc&oh=00_AYDWXfiETA5BgcYwBt9nliu60PwcSxmI_zkdua5ff2u3-Q&oe=6716E8D3",
+            "instructImage5":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463584141_1238630580680252_5505561021693425641_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHanasCoRMobAGP-qu8InfjE8S2vYGvmdwTxLa9ga-Z3HqUxPK9s7aOZDPV2YCdSZBZCCYb60pVmVPDJEp7CJbP&_nc_ohc=M_k2sMwIiHYQ7kNvgHC4-LR&_nc_ht=scontent.fhan18-1.fna&_nc_gid=A419gsmcWAC7mWOZvDt8j_Z&oh=00_AYAE92z2t6grcuGJOxwDIxDljrFeGRH2L_QkU5WtW0fOsg&oe=6716F1F9",
+            "describeProduct": "Cà phê hạt Full City Roast là sự kết hợp hài hòa giữa hạt Arabica và Robusta. 70% Arabica - 30% Robusta. Sản phẩm làm nên sự nổi tiếng đặc trưng của ly cà phê Espresso của Koffee and Bistro Vị đậm, thơm đặc trưng."
+
+        },
+
+        {
+            "id": 38,
+            "name": "Trà hương đào",
+            "class" : "bartending at home",
+            "image" : "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463596525_1238492584027385_6831232979947316762_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEIYFJ0MXkKa80vYRQ1OrPSuI-Q-avvT4m4j5D5q-9PiYmLKrrun3Fp9k9GkcEbzSsOETM1wWnKPJpcWvalBF-j&_nc_ohc=9ziG2_HLt1sQ7kNvgG3LFQl&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AmvR764DTQmtv0LIoJFpgZB&oh=00_AYDplegA3s1wyPc8CUKegyTm3EFR-O2vM7_P_WtW2pbgtw&oe=6716F3BB",
+            "price": 49000,
+            "instructImage1": "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463439846_1238630630680247_3234620683871775208_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFQ_pPPGa6YHitouVwqRRLoGfxE7T7ETBUZ_ETtPsRMFfAfHS38nhMlRdO_cfa8IKJxUEEc_3qEJWhADnyHq12J&_nc_ohc=D5n87pm6icAQ7kNvgEPlcib&_nc_ht=scontent.fhan18-1.fna&_nc_gid=A4KW-XKQrkIZPLfWwF0qQGE&oh=00_AYCFsKZvhqJveMRvscZosP3EvdJfQjbdqDzxl9jPb_0XNw&oe=6716F661",
+            "instructImage2":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463730544_1238630597346917_5135103278924616269_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHpsEHHhdZVJJc-vwE0O3oaAF-H32TK0aUAX4ffZMrRpddZQRjY8FI79HkuyW4BW3vmBzbi4qtsZBp0ttE1TUzd&_nc_ohc=sfKkfr8aC-0Q7kNvgFwG_j_&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AwnTplUvRSswwFLyxodWONj&oh=00_AYAqzv8gcR33Lvsi4w8wQzI2JwXgUZrkllOojlsppgDQMg&oe=6716F14B",
+            "instructImage3":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463877029_1238630707346906_5808665396357449765_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeF0mISZeT1G9KBGLorGrHZZoHfyEQ88kEygd_IRDzyQTCqKrMg7dugYafQvqlcPwZJIG5RcRmg6kAFs2rUhEeTr&_nc_ohc=-oAtTrvCrCAQ7kNvgFTKodZ&_nc_ht=scontent.fhan18-1.fna&_nc_gid=Aofm72CRENuQw7T-AidDo1l&oh=00_AYDCthlfDWkWTfHTvJDGx6XWCw0kz9sQnvJbqv9tNYXczA&oe=6716F1F6",
+            "instructImage4":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463627145_1238630694013574_156366254072076495_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGXB5IEWsZBZFEoO8ts1WiI-clOAU0k7D35yU4BTSTsPW23XV5U9MLq7asx0HWq6oEEO1_irtv0sjeEMVmooXnn&_nc_ohc=89fi6rXqyCgQ7kNvgFQWuvp&_nc_ht=scontent.fhan18-1.fna&_nc_gid=Afj6xOOtcXW4NPfYSPIZxHD&oh=00_AYCVlOdUq0Rc8Z7iWSNVCPkcLJbxLUriiSt_B_sXfVUCTA&oe=6716FB13",
+            "instructImage5":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463724836_1238630720680238_8492634871080246179_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFDF4Ar5H4OYTcugBbFVPCRtPqt_Y1hxiu0-q39jWHGK97Nvuv9scvuUxGBBD1smJCOesEm6x5jnjy61Z-rEsbK&_nc_ohc=-rZ4jsz-KvQQ7kNvgGmeXCU&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AKCDSzFRrz9NtSRhZzPa9E8&oh=00_AYDTKkRExGMsyK9ZJZV7trpHH8P9cnpZ2xDIIMqc7I9HWg&oe=67170DBC",
+            "describeProduct": "Trà là một loại đồ uống truyền thống có nhiều hương vị đa dạng, trong số đó trà đào được biết đến như một đại danh trà. Trà Phúc Long được chế biến bằng phương pháp độc đáo, tạo nên một hương vị đặc trưng không thể nhầm lẫn. Trà đào túi lọc Phúc Long hộp 50g là một lựa chọn hoàn hảo cho những ai yêu thích trà đào và muốn tận hưởng một trải nghiệm trà tinh tế và đáng nhớ của loại trà này."
+
+        },
+
+        {
+            "id": 39,
+            "name": "Trà vải",
+            "class" : "bartending at home",
+            "image" : "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463627846_1238492670694043_415020660800857277_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeE6bDP40i_5L9YtMn9PdUT8j_YSlAMwbQ2P9hKUAzBtDRSeSPDOPZiUbEpQ9tXgvNjptfpoJqQr74B-WsZzzIct&_nc_ohc=BL_K9X2T4HAQ7kNvgE6-eDN&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AbxhuxQl30jfJSTHcLBsXrM&oh=00_AYAccOiafN8AvLQCH4QEsE8IY0Jr8on3y-BKDmRgmtizhA&oe=6716E44C",
+            "price": 55000,
+            "instructImage1": "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463439846_1238630630680247_3234620683871775208_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFQ_pPPGa6YHitouVwqRRLoGfxE7T7ETBUZ_ETtPsRMFfAfHS38nhMlRdO_cfa8IKJxUEEc_3qEJWhADnyHq12J&_nc_ohc=D5n87pm6icAQ7kNvgEPlcib&_nc_ht=scontent.fhan18-1.fna&_nc_gid=A4KW-XKQrkIZPLfWwF0qQGE&oh=00_AYCFsKZvhqJveMRvscZosP3EvdJfQjbdqDzxl9jPb_0XNw&oe=6716F661",
+            "instructImage2":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463730544_1238630597346917_5135103278924616269_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHpsEHHhdZVJJc-vwE0O3oaAF-H32TK0aUAX4ffZMrRpddZQRjY8FI79HkuyW4BW3vmBzbi4qtsZBp0ttE1TUzd&_nc_ohc=sfKkfr8aC-0Q7kNvgFwG_j_&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AwnTplUvRSswwFLyxodWONj&oh=00_AYAqzv8gcR33Lvsi4w8wQzI2JwXgUZrkllOojlsppgDQMg&oe=6716F14B",
+            "instructImage3":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463877029_1238630707346906_5808665396357449765_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeF0mISZeT1G9KBGLorGrHZZoHfyEQ88kEygd_IRDzyQTCqKrMg7dugYafQvqlcPwZJIG5RcRmg6kAFs2rUhEeTr&_nc_ohc=-oAtTrvCrCAQ7kNvgFTKodZ&_nc_ht=scontent.fhan18-1.fna&_nc_gid=Aofm72CRENuQw7T-AidDo1l&oh=00_AYDCthlfDWkWTfHTvJDGx6XWCw0kz9sQnvJbqv9tNYXczA&oe=6716F1F6",
+            "instructImage4":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463627145_1238630694013574_156366254072076495_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGXB5IEWsZBZFEoO8ts1WiI-clOAU0k7D35yU4BTSTsPW23XV5U9MLq7asx0HWq6oEEO1_irtv0sjeEMVmooXnn&_nc_ohc=89fi6rXqyCgQ7kNvgFQWuvp&_nc_ht=scontent.fhan18-1.fna&_nc_gid=Afj6xOOtcXW4NPfYSPIZxHD&oh=00_AYCVlOdUq0Rc8Z7iWSNVCPkcLJbxLUriiSt_B_sXfVUCTA&oe=6716FB13",
+            "instructImage5":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463724836_1238630720680238_8492634871080246179_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFDF4Ar5H4OYTcugBbFVPCRtPqt_Y1hxiu0-q39jWHGK97Nvuv9scvuUxGBBD1smJCOesEm6x5jnjy61Z-rEsbK&_nc_ohc=-rZ4jsz-KvQQ7kNvgGmeXCU&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AKCDSzFRrz9NtSRhZzPa9E8&oh=00_AYDTKkRExGMsyK9ZJZV7trpHH8P9cnpZ2xDIIMqc7I9HWg&oe=67170DBC",
+            "describeProduct": "Trà là một loại đồ uống truyền thống có nhiều hương vị đa dạng, trong số đó trà vải được biết đến như một đại danh trà. Trà Phúc Long được chế biến bằng phương pháp độc đáo, tạo nên một hương vị đặc trưng không thể nhầm lẫn. Trà vải túi lọc Phúc Long hộp 50g là một lựa chọn hoàn hảo cho những ai yêu thích trà vải và muốn tận hưởng một trải nghiệm trà tinh tế và đáng nhớ của loại trà này."
+
+        }
+    ],
+
+    "stores": [
+
+    { 
+        "id": 1,
+        "name": "The manor", 
+        "content": "Đắm mình trong không gian ấm cúng, tràn ngập ánh nắng tự nhiên tại Koffee and Bistro The manor. Với thiết kế tinh tế và không gian mở, Koffee and Bistro The manor là nơi lý tưởng để bạn tận hưởng những tách cà phê thơm ngon và thư giãn cùng bạn bè. Hãy đến và cảm nhận sự khác biệt!",
+        "address": "Khu Dân cư, The Manor - Hà Nội, Nam Từ Liêm, Hà Nội",
+        "linkViewMap": "https://www.google.com/maps/place/Highlands+Coffee+Manor/@21.0137196,105.7734483,17z/data=!3m1!4b1!4m6!3m5!1s0x313454aa07100fbf:0xfe799718dc3b4363!8m2!3d21.0137196!4d105.7760232!16s%2Fg%2F1xtd_0t5?entry=ttu&g_ep=EgoyMDI0MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+            "image1": "https://lh3.googleusercontent.com/p/AF1QipNknBhhZcgefSTJC_V5hmPPGGiTB4g-R77BZDBy=s1360-w1360-h1020",
+            "image2": "https://lh3.googleusercontent.com/p/AF1QipOfVrE9ROFXwFOycVt0COWFKrVdyDT2OdYnxXhe=s1360-w1360-h1020",
+            "image3": "https://lh3.googleusercontent.com/p/AF1QipOGkjIUVaigr7U7VuvDFZNDgZOl4Ve5VKdCa4JX=s1360-w1360-h1020",
+            "image4": "https://lh3.googleusercontent.com/p/AF1QipNLsdXUlHzUEmvYLkkQqJ4UTP3zg_WCX5IYbGl4=s1360-w1360-h1020",
+            "image5": "https://lh3.googleusercontent.com/p/AF1QipMs6g41yQ1FriXVLaPVgkWMQ-D9daD7u-MAdfJa=s1360-w1360-h1020"
+    },
+
+    { 
+        "id": 2,
+        "name": "The Hateco", 
+        "summary": "Ghé Koffee and Bistro The Hateco, cuộc sống thêm ngọt ngào." ,
+        "content": "Mỗi tách cà phê tại Koffee and Bistro The Hateco là một tác phẩm nghệ thuật. Với nguồn nguyên liệu cà phê thượng hạng và quy trình rang xay tỉ mỉ, chúng tôi mang đến cho bạn những hương vị cà phê độc đáo và khó quên. Hãy để vị giác của bạn được khám phá!",
+        "address": "BT02 Hateco, Đ. Xuân Phương, Xuân Phương, Nam Từ Liêm, Hà Nội",
+        "linkViewMap": "https://www.google.com/maps/place/Highland+coffee+Hateco+Apollo/@21.0489404,105.7324726,17z/data=!3m1!4b1!4m6!3m5!1s0x313455b4c168a9c1:0x964df2f86b22833!8m2!3d21.0489404!4d105.7350475!16s%2Fg%2F11sc95yxh9?entry=ttu&g_ep=EgoyMDI0MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+        "status":"new",
+            "image1": "https://lh3.googleusercontent.com/p/AF1QipOOHUa-ev72PliOgASWiClKtFp3hT5sLGMSSP2f=s1360-w1360-h1020",
+            "image2": "https://lh3.googleusercontent.com/p/AF1QipNpfQ6jCS77T8DLKycxRx2rFRixS5SrvXNvSkiF=s1360-w1360-h1020",
+            "image3": "https://lh3.googleusercontent.com/p/AF1QipN_9HOKJkfsYlZjGby1iQCz3mB-O5h_DGTXMu8I=s1360-w1360-h1020",
+            "image4": "https://lh3.googleusercontent.com/p/AF1QipN5X76iwh8sOD9OJjnrvf7Y4r-4f9Vzmvd8fKPE=s1360-w1360-h1020",
+            "image5": "https://lh3.googleusercontent.com/p/AF1QipM52ZcqhWlir-nttnohanC5m8VPYmx2pFI8UGEw=s1360-w1360-h1020"
+    },
+
+    { 
+        "id": 3,
+        "name": "The Hadico", 
+        "summary": "Cà phê Koffee and Bistro The Hadico: Thức tỉnh mọi giác quan." ,
+        "content": "Koffee and Bistro The Hadico - Không gian cà phê độc đáo với những ý tưởng sáng tạo. Chúng tôi không chỉ phục vụ cà phê mà còn mang đến cho bạn những trải nghiệm mới lạ. Hãy để Koffee and Bistro The Hadico làm bạn bất ngờ!",
+        "address": "Handico Tower, Đ. Phạm Hùng, Mễ Trì, Nam Từ Liêm, Hà Nội",
+        "linkViewMap": "https://www.google.com/maps/place/Highland+Coffee+Handico/@21.0166133,105.7795949,17z/data=!3m1!4b1!4m6!3m5!1s0x3135ab70fd129acb:0x9099b6a98b98c9b!8m2!3d21.0166133!4d105.7821698!16s%2Fg%2F11lkzz9__8?entry=ttu&g_ep=EgoyMDI0MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+        "status":"new",
+            "image1": "https://lh3.googleusercontent.com/p/AF1QipPdlrQnq1s1_toHgdpFgTPCjmsCEiQDD45wYj6O=s1360-w1360-h1020",
+            "image2": "https://lh3.googleusercontent.com/p/AF1QipPKdLY8ARnrlWoFDvN0cdHXg1w2soBYJN95ZYK1=s1360-w1360-h1020",
+            "image3": "https://lh3.googleusercontent.com/p/AF1QipPWxvEMxQcfJtT2L8PCTrapySAlW2UkQrVA_a1x=s1360-w1360-h1020",
+            "image4": "https://lh3.googleusercontent.com/p/AF1QipOwrdRvCE1Qc9BKEBN-DaRTJDvK8U7cw00tE5r6=s1360-w1360-h1020",
+            "image5": "https://lh3.googleusercontent.com/p/AF1QipOklZYW2zGq_JoqFjF3Jw5cgqh3bVHwmgkGE3R8=s1360-w1360-h1020"
+    },
+
+    { 
+        "id": 4,
+        "name": "Huy Cận Thủ Đức HCM", 
+        "summary": "Góc nhỏ bình yên giữa lòng thành phố." ,
+        "content": "Ghé thăm Koffee and Bistro Huy Can Thu Duc HCM, bạn không chỉ thưởng thức cà phê mà còn được hòa mình vào không gian ấm cúng, nơi mọi người có thể gặp gỡ, trò chuyện và chia sẻ những câu chuyện thú vị. Hãy trở thành một phần của cộng đồng Koffee and Bistro Huy Can Thu Duc HCM!",
+        "address": "111 Huy Cận, Thành phố, Quận 9, Hồ Chí Minh",
+        "linkViewMap": "https://www.google.com/maps/place/Highlands+Coffee+Huy+Can+Thu+Duc+HCM/@10.8156973,106.7749636,17z/data=!3m1!4b1!4m6!3m5!1s0x317527ee39a45005:0x9d8b86df9856fd3d!8m2!3d10.8156973!4d106.7775385!16s%2Fg%2F11jt657jyg?entry=ttu&g_ep=EgoyMDI0MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+        "status":"new",
+            "image1": "https://lh3.googleusercontent.com/p/AF1QipMtlq6oHLvcNTCfvg5zm5CBKwDhhPGkV-7en2lH=s1360-w1360-h1020",
+            "image2": "https://lh3.googleusercontent.com/p/AF1QipMxyoH6qjq_QGc_y5LTlAtoNV27tOC2xfCl3uc_=s1360-w1360-h1020",
+            "image3": "https://lh3.googleusercontent.com/p/AF1QipMXpX7PQrCAble84GFssT_v_NKXF-telg79-5Dd=s1360-w1360-h1020",
+            "image4": "https://lh3.googleusercontent.com/p/AF1QipMkG4orTiH-HnML5gTkpiEtOCE3ugg7ESiUmXcA=s1360-w1360-h1020",
+            "image5": "https://lh3.googleusercontent.com/p/AF1QipNHyxxVo9sJBcjWWHsyxS99ujIqDW8tKw90Shww=s1360-w1360-h1020"
+    },
+
+    { 
+        "id": 5,
+        "name": "Friendship Tower D1", 
+        "summary": "Koffee and Bistro Friendship Tower D1: Không gian lý tưởng để tận hưởng cuộc sống." ,
+        "content": "Kết hợp giữa hương vị cà phê thơm ngon và không gian thư viện ấm cúng, Koffee and Bistro Friendship Tower D1 là địa điểm lý tưởng để bạn nhâm nhi tách cà phê và đắm mình trong những cuốn sách hay. Hãy đến và khám phá thế giới sách tại Koffee and Bistro Friendship Tower D1!",
+        "address": "31 Đ. Lê Duẩn, Bến Nghé, Quận 1, Hồ Chí Minh",
+        "linkViewMap": "https://www.google.com/maps/place/Highlands+Coffee+Friendship+Tower+D1/@10.7823414,106.6983613,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f02a0abacfb:0xd96b8def97b1222b!8m2!3d10.7823414!4d106.7009362!16s%2Fg%2F11tfg4y84z?entry=ttu&g_ep=EgoyMDI0MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+        "status":"new",
+            "image1": "https://lh3.googleusercontent.com/p/AF1QipNOgpA6-DjJqtA6iUvzqJ6ybXH8oSkVEYaDH5lZ=s680-w680-h510",
+            "image2": "https://lh3.googleusercontent.com/p/AF1QipNTutbUVYB1ghw26XFWCwLmE2CzcYQ05NW9mkB9=s680-w680-h510",
+            "image3": "https://lh3.googleusercontent.com/p/AF1QipO9oGgvXrwtM5yKZJpOPREbDcu1MMfJ-B2yeajP=s680-w680-h510",
+            "image4": "https://lh3.googleusercontent.com/p/AF1QipN-sdn0jEKhwWCJXFch68R18lRFEtrmWkGSuKDB=s680-w680-h510",
+            "image5": "https://lh3.googleusercontent.com/p/AF1QipM_q0A5kWzqQ4wA-Hat0U058d5jA2J7XxD73MUy=s680-w680-h510"
+    },
+
+    { 
+        "id": 6,
+        "name": "Mega Thăng Long", 
+        "content": "Bước vào không gian của chúng tôi, bạn sẽ lạc vào một góc nhỏ Hà Nội xưa, nhâm nhi tách cà phê đậm đà và lắng nghe tiếng nhạc Trữ tình.",
+        "address": "236 Đ. Phạm Văn Đồng, Cổ Nhuế, Bắc Từ Liêm, Hà Nội ",
+        "linkViewMap": "https://www.google.com/maps/place/Highlands+Coffee+Mega+Th%C4%83ng+Long/@21.054528,105.7774749,17z/data=!3m1!4b1!4m6!3m5!1s0x3134553d0c8bf261:0x6ce3f28b087e2f33!8m2!3d21.054528!4d105.7800498!16s%2Fg%2F11ss0v01d7?entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D",
+        "image1": "https://lh3.googleusercontent.com/p/AF1QipMXjX2A4q7aMDB1gKvCO4XRxPadaw45vuG_r-wr=s1360-w1360-h1020",
+        "image2": "https://lh3.googleusercontent.com/p/AF1QipMUl4gT5J_mQn1GQT2SHA_uzSaEjlJ3CnP0Eait=s1360-w1360-h1020",
+        "image3": "https://lh3.googleusercontent.com/p/AF1QipN3sEWr8b2H81hyFmxPAH0zD6kyr1h6NoLWj4B9=s1360-w1360-h1020",
+        "image4": "https://lh3.googleusercontent.com/p/AF1QipPmzfVRFITdq1S3uZkeayeaqfpk3ynqtUusdpXm=s1360-w1360-h1020",
+        "image5": "https://lh3.googleusercontent.com/p/AF1QipPwPKJWJNwS2OhoRbFSm_OeMqxVE-JcpaaztI9t=s1360-w1360-h1020"
+    },
+
+    { 
+        "id": 7,
+        "name": "CT2 Nghĩa Đô", 
+        "content": "Cà phê như một bản tình ca, mỗi tách là một câu chuyện. Hãy để chúng tôi kể cho bạn nghe câu chuyện của riêng bạn.",
+        "address": "Tầng 1 CT2A Nghĩa Đô, Phường, Cổ Nhuế, Bắc Từ Liêm, Hà Nội",
+        "linkViewMap": "https://www.google.com/maps/place/Highlands+Coffee+CT2+Ngh%C4%A9a+%C4%90%C3%B4/@21.0516336,105.7901986,17z/data=!3m1!4b1!4m6!3m5!1s0x3135aba641eb47b9:0xb5ae71a09832964a!8m2!3d21.0516336!4d105.7927735!16s%2Fg%2F11sb4_dwz2?entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D",
+        "image1": "https://lh5.googleusercontent.com/p/AF1QipPCUhzTKdhMArFt5mkNXuAY4vQiY8-zRbkkrUi6=w260-h175-n-k-no",
+        "image2": "https://lh5.googleusercontent.com/p/AF1QipMhBPOt-9x5zjDYJ9rhNg5BE3lJjJc4bVPAXTM5=w141-h101-n-k-no-nu",
+        "image3": "https://lh3.googleusercontent.com/p/AF1QipNLNrfRMBhfObKhE5vbhBFRbBvdVS-r0EWYevW-=s1360-w1360-h1020",
+        "image4": "https://lh3.googleusercontent.com/p/AF1QipMTAXiQVgXm9RsNjs_BpuYbRUGejvLRQ2kh7CIV=s1360-w1360-h1020",
+        "image5": "https://lh3.googleusercontent.com/p/AF1QipMQJSCz8zNqRB29KyzSmh5V8ekufbdnvrw7MJTa=s1360-w1360-h1020"
+    },
+
+    { 
+        "id": 8,
+        "name": "Dolphin Plaza", 
+        "content": "Quán cà phê nhỏ, tình cảm lớn. Đến với chúng tôi để tìm lại những ký ức xưa.",
+        "address": "6 P. Nguyễn Hoàng, Mỹ Đình, Nam Từ Liêm, Hà Nội",
+        "linkViewMap": "https://www.google.com/maps/place/Highlands+Coffee+Dolphin+Plaza/@21.0299923,105.7736833,17z/data=!4m13!1m2!2m1!1sHighlands+Coffee+Dolphin+Plaza!3m9!1s0x313454b1a2689743:0x8d7674271dc21921!5m2!4m1!1i2!8m2!3d21.0298352!4d105.7764905!15sCh5IaWdobGFuZHMgQ29mZmVlIERvbHBoaW4gUGxhemEiA4gBAVogIh5oaWdobGFuZHMgY29mZmVlIGRvbHBoaW4gcGxhemGSAQRjYWZl4AEA!16s%2Fg%2F11c5sw7lzq?entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D",
+        "image1": "https://lh3.googleusercontent.com/p/AF1QipOSz8kLDQ6iGwJFqe1TV0TMv8pB3T_29P6WHwYE=s1360-w1360-h1020",
+        "image2": "https://lh3.googleusercontent.com/p/AF1QipMwDYZLCG3ii5f_Q4KpQ96rC6oWAR-UAQO4bTaJ=s1360-w1360-h1020",
+        "image3": "https://lh3.googleusercontent.com/p/AF1QipPUUPys86FKjlcAhhEPv2zsJ5UoXuegVyUoQc62=s1360-w1360-h1020",
+        "image4": "https://lh3.googleusercontent.com/p/AF1QipMNz0SswBs6ulXYjPVlEnKmRD9oXlqfVkH0vPIF=s1360-w1360-h1020",
+        "image5": "https://lh3.googleusercontent.com/p/AF1QipNr_wElsRxe0r-E57u6YQw5eVcdGOwtt-X1xp3v=s1360-w1360-h1020"
+    },
+
+    { 
+        "id": 9,
+        "name": "Florence Hà Nội", 
+        "content": "Cà phê, kết nối và sáng tạo. Đó là tất cả những gì bạn tìm thấy ở đây.",
+        "address": "28 P.Trần Hữu Dực, Cầu Diễn, Nam Từ Liêm, Hà Nội",
+        "linkViewMap": "https://www.google.com/maps/place/Highlands+Coffee+Florence+H%C3%A0+N%E1%BB%99i/@21.0304971,105.7585838,17z/data=!3m1!4b1!4m6!3m5!1s0x3134554504d48fff:0x8894f92de55c8635!8m2!3d21.0304971!4d105.7611587!16s%2Fg%2F11t7rfhflg?entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D",
+        "image1": "https://lh3.googleusercontent.com/p/AF1QipObC6zn_-2fr7gfUbIniroSpv3OyJq0M61wt0GJ=s1360-w1360-h1020",
+        "image2": "https://lh3.googleusercontent.com/p/AF1QipOB8dDaZHa-Baf1kXhGzc2-uohQ9-gZxa24YvR2=s1360-w1360-h1020",
+        "image3": "https://lh3.googleusercontent.com/p/AF1QipOsd8_R0_eXKUUQYTUw_H0jJCnk3uNUuTjP9Jhb=s1360-w1360-h1020",
+        "image4": "https://lh3.googleusercontent.com/p/AF1QipP56lrGX-OWn2lXVSUyg-w3qUfrIjCKp3oXcKng=s1360-w1360-h1020",
+        "image5": "https://lh3.googleusercontent.com/p/AF1QipMg82C6kcYnkPGI2tygp-QEtBSWn1Ojg6yy_Hp-=s1360-w1360-h1020"
+    },
+
+    { 
+        "id": 10,
+        "name": "Vinmart Tây Hồ", 
+        "content": "Không chỉ là cà phê, chúng tôi còn là nơi để bạn làm việc, học tập và tận hưởng cuộc sống.",
+        "address": " Tầng 1 siêu thị Winmart Nhật Tân, Ng. 689 Đ. Lạc Long Quân, Phú Thượng, Tây Hồ, Hà Nội",
+        "linkViewMap": "https://www.google.com/maps/place/Highlands+Coffee+Vinmart+T%C3%A2y+H%E1%BB%93/@21.0791295,105.8112689,17z/data=!3m1!4b1!4m6!3m5!1s0x3135aaecdcd6c867:0xa0587b282b55b4b9!8m2!3d21.0791295!4d105.8138438!16s%2Fg%2F11c1bsb0hp?entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D",
+        "image1": "https://lh3.googleusercontent.com/p/AF1QipPFDR8dPg0dPSWpe1Sn2vGAiRBuamp_exN85GRJ=s1360-w1360-h1020",
+        "image2": "https://lh3.googleusercontent.com/p/AF1QipPwI_5Bs_wn20c5m8YiX48H1jWdU7zJfIq0bDbE=s1360-w1360-h1020",
+        "image3": "https://lh3.googleusercontent.com/p/AF1QipPOV3aO6lujxKaaeLuqDz1RVOZPWJadsJeHjYdm=s1360-w1360-h1020",
+        "image4": "https://lh3.googleusercontent.com/p/AF1QipPnhekDeibraWJrIIBmK1Q9flAS6s4N_gNGJ5ro=s1360-w1360-h1020",
+        "image5": "https://lh3.googleusercontent.com/p/AF1QipOluuW8Uj6mfgAXgvzknx5Y2j_21zGtLufW-ak0=s1360-w1360-h1020"
+    },
+
+    { 
+        "id": 11,
+        "name": "25 Nơ Trang Long", 
+        "content": "Nạp năng lượng cho một ngày dài với những ly cà phê thơm ngon và không gian làm việc hiện đại.",
+        "address": "25 Nơ Trang Long, Phường 7, Quận Bình Thạnh, Tp. Hồ Chí Minh, Hồ Chí Minh",
+        "linkViewMap": "https://www.google.com/maps/place/Highlands+Coffee+25+N%C6%A1+Trang+Long/@10.8068161,106.6922231,17z/data=!3m1!4b1!4m6!3m5!1s0x3175299390a3aa45:0x9348aa0f3caf6693!8m2!3d10.8068161!4d106.694798!16s%2Fg%2F11t1bmgt7q?entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D",
+        "image1": "https://lh3.googleusercontent.com/p/AF1QipNtNh-icmC7XURSmtEZcBlqxFXlzb-tojDDpMTn=s1360-w1360-h1020",
+        "image2": "https://lh3.googleusercontent.com/p/AF1QipOnOk5SRANnH1SKg-Llolg9VxoFyMVj-dEAWjM=s1360-w1360-h1020",
+        "image3": "https://lh3.googleusercontent.com/p/AF1QipNEdN5ieCM5sgIgBKLAicD8YUd0JBe33IkJZv42=s1360-w1360-h1020",
+        "image4": "https://lh3.googleusercontent.com/p/AF1QipMkP-BiS_VtqwPvALOel2XnGucBbfrGKoA29c3q=s1360-w1360-h1020",
+        "image5": "https://lh3.googleusercontent.com/p/AF1QipMN0WRKy_rw4mpf8dMjbLrA8kqaxJTwtiu7a7pZ=s1360-w1360-h1020"
+    },
+
+    { 
+        "id": 12,
+        "name": "377 Tân Kỳ Tân Quý", 
+        "content": "Ngắm nhìn thành phố từ trên cao, nhâm nhi tách cà phê yêu thích. Còn gì tuyệt vời hơn?",
+        "address": "377 Đ. Tân Kỳ Tân Quý, Tân Quý, Tân Phú, Hồ Chí Minh",
+        "linkViewMap": "https://www.google.com/maps/place/Highlands+Coffee+377+T%C3%A2n+K%E1%BB%B3+T%C3%A2n+Qu%C3%BD/@10.800291,106.6193101,17z/data=!3m1!4b1!4m6!3m5!1s0x31752b78bbb083ef:0xf492dcbc4af67596!8m2!3d10.800291!4d106.621885!16s%2Fg%2F11my7d3rfy?entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D",
+        "image1": "https://lh3.googleusercontent.com/p/AF1QipPzBp1A00oBo5v4NB7lsJYgBkrgq_ZP9jxJfasi=s1360-w1360-h1020",
+        "image2": "https://lh3.googleusercontent.com/p/AF1QipNvOKdgn4YAIMmGmfQm0hRcn_5A2Bt4dqkyMI0p=s1360-w1360-h1020",
+        "image3": "https://lh3.googleusercontent.com/p/AF1QipPikOIKrvMc50spK7NuP5CtdtkZpxOOKLJ5O0o5=s1360-w1360-h1020",
+        "image4": "https://lh3.googleusercontent.com/p/AF1QipNb0mkd0UD6JvgPmKw4WAgJGXBUZ8WYMa1zzVXq=s1360-w1360-h1020",
+        "image5": "https://lh3.googleusercontent.com/p/AF1QipPwpfvtnJ9PA1qPnLwmf-CD7IrE3cEcjhiWlb19=s1360-w1360-h1020"
+    }
+
+
+    ],
+
+    "posts": [
+        { 
+            "id": 1,
+            "title": "SIGNATURE BY THE COFFEE HOUSE - DẤU ẤN MỚI CỦA NHÀ CÀ PHÊ",
+            "time": "19/01/2023",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463826523_1238729834003660_8084790065405726004_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFlzUpFZMBD6-3BxR4Gvj3_QKcGi4YwYnZApwaLhjBidlAfMEfQ_vTjX1_fbT_gdEH4sCjJdtGKQXpcOTPAm8lx&_nc_ohc=2Lu9wcC-mJEQ7kNvgHpbUJ_&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AyaV0ydd5H3EYoghPmkv7Ud&oh=00_AYCp4UojvkVbAZYirhgF6uc_YSBwdZ0YZCb4doAa_fR_7w&oe=67171AE8",
+            "content1": "Ngày 11.01.2023, Chuỗi The Coffee House thông báo cửa hàng SIGNATURE by The Coffee House chính thức khai trương tại trung tâm thương mại Crescent Mall, Nguyễn Văn Linh, Quận 7. Quán chuyên phục vụ cà phê đặc sản (specialty coffee) và món ăn đa bản sắc (fusion food) lấy cảm hứng từ trà và cà phê, không gian cảm hứng với phần bài trí hành trình cà phê đặc sắc, làm nên một cuộc hẹn tròn đầy. ",
+            "content2": "Trong đó, chất lượng hương vị cà phê được bảo đảm nhờ quy trình rang tại chỗ, chia làm các mẻ nhỏ để cà phê giữ trọn vẹn hương vị nguyên bản. Ai đến quán cũng có thể tìm được hương vị phù hợp từ 4 lựa chọn cà phê đặc sản Signature: Campfire Blend (Lửa trại) mẻ rang là sự kết hợp tầng hương khói và vị đậm ngọt ngào của caramel cháy, sô cô la đen và marshmallow nướng, Tropical Garden Blend (Vườn Nhiệt Đới) đặc tả hương vị trái cây nhiệt đới, Nut Cracker Blend (Kẹp Hạt rang) với hương sôcôla sữa, vị ngọt của đường thô và hạt mắc ca nướng mang lại sự kết hợp ngọt ngào đan xen; Cà phê Phin Blend đậm hương vị của hạt cà phê robusta chất lượng cao được trồng tại Đắk Lắk, Việt Nam. Với mỗi lựa chọn, các barista sẽ có những cách pha chế khác nhau như pha máy, pha phin hoặc ủ lạnh (coldbrew), kết hợp với các nguyên liệu cao cấp để tạo ra nhiều thức uống cà phê đa dạng… Ngoài cà phê đặc sản Signature, khách hàng vẫn có nhiều lựa chọn với những thức uống khác đã làm nên tên tuổi của The Coffee House như Cà phê CloudFee, Trà Hi-Tea Healthy (Trà Hibiscus), Trà sữa CloudTea, Trà Trái cây… SIGNATURE by The Coffee House mang đến một menu phong phú các món ăn được chế biến theo xu hướng fusion, kết hợp những món Việt với phong cách Âu, hoặc những món Âu được pha trộn theo hương vị phù hợp với khẩu vị Việt. Đặc biệt, các món ăn được nâng cấp để đi cùng (food pairing) với các món uống từ trà hoặc cà phê đầy sáng tạo như ướp bằng gia vị chiết xuất cà phê, xông khói thực phẩm với lá trà, thậm chí tận dụng trà Hibiscus làm nước sốt… để tạo ra những biến tấu thú vị, mang đến cho người thưởng thức những trải nghiệm mới."
+
+        },
+
+        { 
+            "id": 2,
+            "title": "NGƯỢC LÊN TÂY BẮC GÓI VỊ MỘC VỀ XUÔI",
+            "time":"16/08/2023",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463542567_1238729937336983_1366806358022311235_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeG8aaPWb-thRRO7N7eTro7jwURSTNFkzkvBRFJM0WTOSyPut1WbstRhG4YKW9qLH3pwKOCzfwvXhXWFbjwrrwdA&_nc_ohc=A_KyCcxtpgMQ7kNvgHRkUHi&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AyIQet5HFUhEOOY04kS8e2Y&oh=00_AYDh03xk72aIwMuwHgBfGFvPTJqvHmN30v7nxE3OneQ4Vg&oe=67170B7C",
+            "content1": "Những dải ruộng bậc thang, các cô gái Thái với điệu múa xòe hoa, muôn cung đường ngợp mùa hoa… đó là rẻo cao Tây Bắc luôn làm say lòng lữ khách miền xuôi. Và nép mình bên dưới núi non hùng vĩ ấy còn có món quà gói trọn vị thiên nhiên: trà xanh Tây Bắc.",
+            "content2": "Hơn một thức uống, trà được ví như “tiên dược” nguyên nhân có lẽ ở trong cách nó được dung dưỡng lớn lên. Trà phát triển tốt nhất và cho chất lượng ngon nhất ở những nơi khí hậu ẩm, lạnh, quanh năm có sương mù. Những loại trà nổi tiếng đều gắn với các địa danh hiểm trở như Suối Giàng, Tà Xùa, Mộc Châu... Việc dung hòa với những điều kiện khó khăn để phát triển, tự trà xanh chứa đựng những giá trị dưỡng sinh mà khó có loài thảo mộc nào sánh bằng. Vì thế, không lạ khi các nhà nghiên cứu chỉ ra, trà xanh Tây Bắc sau khi nghiền mịn giàu chất xơ và các vitamin C, B, E và chứa hàm lượng chất chống oxy hóa cao gấp 3 lần trà xanh nguyên lá thông thường. Trà xanh Tây Bắc cũng có hương vị riêng khó trộn lẫn với bất cứ vùng miền nào, với vị mộc thấm đẫm hơi thở núi rừng, chát nhẹ nhưng hậu vị thanh ngọt. Ủ mình trong sương sớm và mây trời quanh năm, nên trà có hương thơm thanh tao, tạo cảm giác khoan khoái khi thưởng thức. Đặc biệt, trà xanh Tây Bắc được phủ râm vài tuần trước khi thu hoạch, nhằm giữ lại tối đa dưỡng chất, trong đó có amino acid L-Theanine, giúp giải tỏa căng thẳng một cách nhẹ nhàng. Trà Xanh Tây Bắc - Vị mộc từ Nhà, chờ khách miền xuôi. Với mong muốn mang hương vị của vùng cao về với thị thành, The Coffee House trình làng 4 thức uống từ trà xanh Tây Bắc: Trà Xanh Latte, Trà Xanh Xoài Đá Tuyết, Đá Xay Frosty Trà Xanh, và Trà Xanh Đường Đen. Dành cho những ai cần tỉnh táo nhưng lại sợ cảm giác say, khó chịu, đau đầu, Trà Xanh Latte sẽ là một trải nghiệm vị giác phù hợp. Hương vị chủ đạo trà xanh Tây Bắc chát nhẹ kết hợp cùng sữa tươi nguyên kem ngọt dịu sẽ khiến bạn đủ tỉnh táo một cách êm mượt, xoa dịu những căng thẳng."
+
+        },
+
+        { 
+            "id": 3,
+            "title": "BẮT GẶP SÀI GÒN XƯA TRONG MÓN UỐNG HIỆN ĐẠI CỦA GIỚI TRẺ",
+            "time":"01/11/2023",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463441789_1238729850670325_6945321571933590330_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeG47HbVXB7jEJnyJGJMXo4SFCVtzUj9dnMUJW3NSP12c5SoTtEFISuLv5qW_rnEf0VByzoeC0Qdr1i8lyEeSrvD&_nc_ohc=dLnsPsr09WYQ7kNvgHk0Tm4&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AofHCfy5AYBEpPq7q9SAv9H&oh=00_AYDg2PkQIGZS98LLVlHOdux6ppZ0TiQ81n4qo8acX_eYyw&oe=67172B03",
+            "content1": "Dẫu qua bao nhiêu lớp sóng thời gian, người ta vẫn có thể tìm lại những dấu ấn thăng trầm của một Sài Gòn xưa cũ. Trên những góc phố, trong các bức ảnh, trong vô số tác phẩm văn chương... và dĩ nhiên trong cả thiên đường ẩm thực phong phú. Món ăn đường phố Sài Gòn nức tiếng qua bao nhiêu thế hệ, trong đó có một món tưởng bình dị nhưng lại là “kho báu” của tuổi thơ, và là cảm hứng cho các tín đồ ăn uống.",
+            "content2": "Mỗi ngày, chúng ta có thể dung nạp khoảng 300 mg caffeine, tương đương 2 - 3 tách cà phê. Vì vậy, Phin Sữa Tươi Bánh Flan không chỉ là nguồn năng lượng tỉnh táo buổi sáng, mà còn là lựa chọn hoàn hảo cho ly cà phê thứ hai trong ngày. Không đơn thuần chỉ là một món uống đậm đắng vồ vã, The Coffee House mong muốn khách hàng được thưởng thức một ly cà phê ngon đúng nghĩa: tỉnh táo, đậm đà, ngọt dịu hài hòa, thêm chút yêu chiều, tận hưởng với topping hấp dẫn. Và đặc biệt nhất, chỉ cần cắn một miếng flan, mềm tan trong miệng, bao nhiêu khung trời ký ức bỗng nhiên ùa về. Thời thơ ấu chạy tìm những hàng bánh flan vỉa hè để giải khát giữa trời nóng. Hay tuổi trẻ cùng đám bạn ngồi vỉa hè chia nhau từng đĩa bánh nhỏ thơm mùi cà phê. Bánh flan cà phê đá bào gói ghém bao nhiêu câu chuyện, cũng như hiển hiện dáng dấp của một Sài Gòn qua bao thăng trầm. Và nay, Phin Sữa Tươi Bánh Flan từ The Coffee House dường như là sự tiếp nối văn hóa ẩm thực ấy. Từ những cuộc tụm năm tụm ba vỉa hè, đến những cuộc quây quần trong không gian ấm cúng, đẹp đẽ. Người trẻ ngày nay luôn sẵn sàng đi khắp nơi, đến văn phòng, dạo phố, đạp xe, rong ruổi khắp mọi ngóc ngách thành phố,... chỉ cần trên tay có một ly cà phê đúng gu, tiện lợi. Món uống mới từ Nhà, cũng vì thế, đang cùng thế hệ năng động ngày nay, ngắm nhìn Sài Gòn từng ngày phát triển. "
+
+        },
+
+        { 
+            "id": 4,
+            "title": "CHỈ CHỌN CÀ PHÊ MỖI SÁNG NHƯNG CŨNG KHIẾN CUỘC SỐNG CỦA BẠN THÊM THÚ VỊ, TẠI SAO KHÔNG?",
+            "time":"30/10/2023",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463628164_1238729940670316_3956593715390675016_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGWhU4JWTQgN-PyQXD6Ij-0fFK2NGIKoGl8UrY0YgqgaeUPcgnLm7TjBc65dm8-TK0YlLsCGat8XLagRJNWfiBm&_nc_ohc=GLU0-VnWoYEQ7kNvgF9Kafx&_nc_ht=scontent.fhan18-1.fna&_nc_gid=A4QeeKvVBq5okBAgY3w3PiX&oh=00_AYBe-DnlI0M3ETRvL-eDx8OVnTAnTR5rYcd2CHiFTXSiRg&oe=671713F5",
+            "content1": "Thực chất, bạn không nhất thiết phải làm gì to tát để tạo nên một ngày rực rỡ. Chỉ cần bắt đầu từ những việc nhỏ nhặt nhất, khi bạn đứng trước quầy cà phê mỗi sáng, mạnh dạn thử một thức uống mới mẻ và phá cách.",
+            "content2": "Vì theo văn hóa phương Đông, hình tròn được xem là biểu tượng của sự hoàn hảo. Không có điểm khởi đầu, cũng không có điểm kết thúc. Nhưng cũng vì sự hoàn hảo đến mức khuôn mẫu đó, không ít người cảm giác mình đang rơi vào sự nhàm chán. Vậy chấp nhận một quỹ đạo an toàn, hay mạnh dạn tạo ra những bước đi mới, mỗi người đều có cách lựa chọn khác nhau. Nhưng đôi lúc, chọn điểm nhấn cho cuộc đời bằng những khám phá khác lạ cũng là một bước đi đáng để thử. Nếu đã là một vòng tròn, hãy tô màu cho hình tròn ấy thật rực rỡ. Tác giả Đối thoại với thượng đế - Neale Donald Walsch từng nói: Cuộc sống chỉ thật sự bắt đầu khi bạn bước ra khỏi vùng an toàn của mình. Việc thoát khỏi vùng an toàn đôi khi chỉ bắt đầu từ việc nhỏ thường nhật. Chẳng hạn như thử thay đổi một thức uống mới mẻ. Để giúp người dùng có thêm lựa chọn tạo ra nhiều điểm nhấn trong cuộc sống bận rộn, The Coffee House mới đây cho ra mắt Bộ đôi Cà Phê Highlight - Điểm nhấn cho ngày phấn chấn. Với sứ mệnh làm những người yêu (hoặc suýt yêu) cà phê phải… ồ lên, sản phẩm mới từ Nhà Cà Phê mang đến hương vị phá cách ai cũng nên thử. Bởi, vẫn từ những hạt Robusta, Arabica quen thuộc, barista Nhà đã khiến thức uống trở lên lạ miệng và thú vị hơn nhiều lần."
+
+        },
+
+        { 
+            "id": 5,
+            "title": "SIGNATURE - BIỂU TƯỢNG VĂN HOÁ CÀ PHÊ CỦA THE COFFEE HOUSE ĐÃ QUAY TRỞ LẠI",
+            "time":"12/02/2023",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463484688_1238729947336982_4850966424502321583_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeH1NawgoA6EVeAK4GXSYypKRaAmosr1wphFoCaiyvXCmEmYl5C393l4tXYReulLdlo9fqrUedzlETp0Vrz06hHM&_nc_ohc=W_sos5Raii4Q7kNvgHwrPMn&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AJq9PqaLnYOYqWq4tjEt8H4&oh=00_AYAno5wGPPhE6wwUsnrQKnx8r9PmxRE7F4aPvAQXRbb_Jw&oe=67171D13",
+            "content1": "Mới đây, các tín đồ cà phê đang bàn tán xôn xao về SIGNATURE - Biểu tượng văn hóa cà phê của The Coffee House đã quay trở lại.",
+            "content2": "Vừa qua, Fanpage Nhà đã hé mở những thông tin đầu tiên về SIGNATURE by The Coffee House kèm lời hẹn Hôm nay bạn có hẹn chưa? Mình cà phê nhé!. Theo đó, SIGNATURE by The Coffee House sẽ gửi đến các thành viên của Nhà những Cuộc hẹn tròn đầy với 3 trải nghiệm: Tách cà phê đặc sản với những mẻ rang mới mỗi ngày, chiều lòng mọi tâm hồn yêu cà phê hay những ai đang tò mò về loại trái cây đặc biệt này; Món ăn đa bản sắc, mang phong vị giao thoa từ nhiều nơi cho cuộc hẹn dài hơn, rôm rả hơn; Một không gian đầy cảm hứng, nơi hạt cà phê kể về hành trình tuyệt vời của mình theo cách gần gũi nhất. Bạn sẽ có cơ hội thưởng thức cà phê bằng đủ những giác quan - ngửi hương, lắng nghe, ngắm nhìn và nếm vị.Không gian rộng mở, được thiết kế như một xưởng rang cà phê nhưng vẫn tạo cảm giác thân thuộc, gần gũi với nhiều cây xanh và hai tông màu cam nâu ấm áp và trắng xám tinh tế. Trong đó, nổi bật nhất phải kể đến hệ thống các si lô cà phê và một máy rang lớn đặt ở sảnh tầng 1, cùng hệ thống các ống đồng chứa cà phê rang, khu vực quầy bar trải nghiệm. Khoảng 1 giờ, quán sẽ rang 1 mẻ nhỏ, tạo nên tiếng cà phê chạy trong các ống đồng rất vui tai, như 1 bản nhạc."
+
+        },
+
+        { 
+            "id": 6,
+            "title": "SIGNATURE - BIỂU TƯỢNG VĂN HOÁ CÀ PHÊ CỦA THE COFFEE HOUSE ĐÃ QUAY TRỞ LẠI",
+            "time":"12/02/2023",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463484688_1238729947336982_4850966424502321583_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeH1NawgoA6EVeAK4GXSYypKRaAmosr1wphFoCaiyvXCmEmYl5C393l4tXYReulLdlo9fqrUedzlETp0Vrz06hHM&_nc_ohc=W_sos5Raii4Q7kNvgHwrPMn&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AJq9PqaLnYOYqWq4tjEt8H4&oh=00_AYAno5wGPPhE6wwUsnrQKnx8r9PmxRE7F4aPvAQXRbb_Jw&oe=67171D13",
+            "content1": "Mới đây, các tín đồ cà phê đang bàn tán xôn xao về SIGNATURE - Biểu tượng văn hóa cà phê của The Coffee House đã quay trở lại.",
+            "content2": "Vừa qua, Fanpage Nhà đã hé mở những thông tin đầu tiên về SIGNATURE by The Coffee House kèm lời hẹn Hôm nay bạn có hẹn chưa? Mình cà phê nhé!. Theo đó, SIGNATURE by The Coffee House sẽ gửi đến các thành viên của Nhà những Cuộc hẹn tròn đầy với 3 trải nghiệm: Tách cà phê đặc sản với những mẻ rang mới mỗi ngày, chiều lòng mọi tâm hồn yêu cà phê hay những ai đang tò mò về loại trái cây đặc biệt này; Món ăn đa bản sắc, mang phong vị giao thoa từ nhiều nơi cho cuộc hẹn dài hơn, rôm rả hơn; Một không gian đầy cảm hứng, nơi hạt cà phê kể về hành trình tuyệt vời của mình theo cách gần gũi nhất. Bạn sẽ có cơ hội thưởng thức cà phê bằng đủ những giác quan - ngửi hương, lắng nghe, ngắm nhìn và nếm vị.Không gian rộng mở, được thiết kế như một xưởng rang cà phê nhưng vẫn tạo cảm giác thân thuộc, gần gũi với nhiều cây xanh và hai tông màu cam nâu ấm áp và trắng xám tinh tế. Trong đó, nổi bật nhất phải kể đến hệ thống các si lô cà phê và một máy rang lớn đặt ở sảnh tầng 1, cùng hệ thống các ống đồng chứa cà phê rang, khu vực quầy bar trải nghiệm. Khoảng 1 giờ, quán sẽ rang 1 mẻ nhỏ, tạo nên tiếng cà phê chạy trong các ống đồng rất vui tai, như 1 bản nhạc."
+
+        },
+
+        { 
+            "id": 7,
+            "title": "TRUNG THU NÀY, SAO BẠN KHÔNG TỰ CHO MÌNH DỪNG MỘT CHÚT THÔI, THƯỞNG MỘT CHÚT TRÔI",
+            "time":"19/09/2023",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463489424_1238729730670337_7262734130184081522_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeErQnGbRLVKGkwoYZ0X3legfBHIkZ964ax8EciRn3rhrJk244MCrxlOTSibah9gLsDGyGU910rS2yN410heCAWW&_nc_ohc=K40_D1YvxGwQ7kNvgHNPrCe&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AXfJX75SI6lxylCcbbGK4rC&oh=00_AYAbILoxUJddwgB35UtOjcfA0qknqs_xPNokwAeb18kEOQ&oe=67170E94",
+            "content1": "Bạn có từng nghe: “Trung thu thôi mà, có gì đâu mà chơi”, hay “Trung thu càng ngày càng chán”...? Sự bận rộn đến mức “điên rồ” đã khiến chúng ta dần quên đi: bản thân mỗi người cũng đã từng háo hức mỗi khi Trung thu đến. Vậy thì mùa trăng năm nay, sao không thử “dừng một chút thôi”, vì chúng ta đều xứng đáng tự thương mình, và tự “thưởng một chút trôi”.",
+            "content2": "Việt Nam là một trong 5 nước ăn mừng Trung thu lớn nhất châu Á, bên cạnh Trung Quốc, Hàn Quốc, Nhật Bản, Philippines, và Thái Lan. Với xuất phát điểm từ truyền thống văn minh nông nghiệp cổ truyền, Trung thu không chỉ đánh dấu thời điểm kết thúc vụ mùa, mà còn là lúc để quây quần bên nhau, cùng ăn mừng chúc tụng. Hơn hết, là để nghỉ ngơi sau một mùa màng tất bật, lấy lại tinh thần và chia sẻ với nhau niềm hy vọng vào một vụ mùa bội thu tiếp theo. Chính vì ý nghĩa đặc biệt này mà Trung thu được xem như cái cái Tết thứ 2 đối với các quốc gia châu Á. Đó không phải là sự rộn ràng, hối hả của Tết Nguyên Đán khi phải gấp rút chuyển giao giữa năm mới và năm cũ; mà chỉ đơn thuần là một nhịp chậm lại để tự hào nhìn về chặng đường vừa đi qua. Tết Nguyên Đán thì cả trời đất nô nức báo tin, còn Trung thu chỉ lặng lẽ trăng tròn. Người người đến Tết dù mệt mỏi thế nào cũng cố gắng chu toàn một cái Tết trọn vẹn, còn trăng rằm tháng Tám cũng không khác gì những đêm trăng tháng nào cũng thấy trong năm, còn bị sự bận rộn của cuộc sống giành sự chú ý. "
+
+        },
+
+        { 
+            "id": 8,
+            "title": "BỘ SƯU TẬP CẦU TOÀN KÈO THƠM: VÍA MAY MẮN KHÔNG THỂ BỎ LỠ TẾT NÀY",
+            "time":"16/01/2023",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463821431_1238729734003670_5470940950473141864_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHAEsA5keE4XY07wOCCRqRkCG5OxEvt468Ibk7ES-3jr2FN3u1vn7huvwXKBwBSbVIbkMeZ0pKvcPRuA5vslgdU&_nc_ohc=xPQPg7Df-LIQ7kNvgF-rDuY&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AVfxmBYZAYCYQBYncZJz-ln&oh=00_AYANvF6HR_tV2QFiuJZXdgPqszP_E7HHOvKLErhUwlmcPQ&oe=6717194B",
+            "content1": "Tết nay vẫn giống Tết xưa, không hề mai một nét văn hoá truyền thống mà còn thêm vào những hoạt động “xin vía” hiện đại, trẻ trung. Ví như giới trẻ đang lên lịch ghé The Coffee House - “địa điểm xin vía mới nổi” để vừa thưởng thức bộ sưu tập thức uống dành riêng cho Tết vừa mong năm mới Cầu Toàn Kèo Thơm.",
+            "content2": "“Xin vía” - cụm từ quen thuộc được giới trẻ sử dụng như một câu nói cửa miệng trong giao tiếp hàng ngày lại thể hiện nét văn hoá đặc trưng của người Việt mỗi dịp Tết đến, Xuân về. Ghé thăm những địa điểm may mắn, thưởng thức những món ăn mang ý nghĩa tốt lành hay gặp gỡ người “hợp tuổi” là điều ai cũng muốn làm trong năm mới. Thấu hiểu tâm lý đón Tết với “tất tần tật” điều may từ ẩm thực đến đi lại của mọi người, The Coffee House đã ra mắt BST Tết Quý Mão 2023 mang tên Cầu Toàn Kèo Thơm. Củng cố niềm tin vào những điều tốt đẹp sẽ đến trong năm mới, mỗi sản phẩm trong BST Cầu Toàn Kèo Thơm được xem là  một “vía” may mắn, để bất kỳ khách hàng nào cũng dễ dàng “xin vía” khi ghé chơi Nhà. Tất cả các thức uống trong Cầu Toàn Kèo Thơm đều mang sắc đỏ - vàng chủ đạo, đây cũng là màu sắc chủ đạo mỗi dịp lễ tết. Đồng thời, mỗi ly nước còn đầy ắp loạt topping chất lượng tượng trưng sự sung túc và đủ đầy. Đặc biệt, The Coffee House còn dày công lựa chọn cả hương vị chính là từ thơm và mãng cầu - hai loại trái cây quen thuộc trong mâm ngũ quả ngày Tết. Vị chua ngọt từ mãng cầu, thơm cực hợp gơ cho mùa Tết, giúp giải ngấy và thanh lọc cơ thể sau các buổi tiệc linh đình. Hơn thế nữa, The Coffee House vẫn giữ vững tôn chỉ “đẹp da - khỏe dáng” đã từng chinh phục thành công nhiều khách hàng trong các BST thức uống healthy trước đây, với nền trà tốt cho sức khỏe, thanh lọc cơ thể trong Cầu Toàn Kèo Thơm."
+
+        },
+
+        { 
+            "id": 9,
+            "title": "KHUẤY ĐỂ THẤY TRĂNG - KHUẤY LÊN NIỀM HẠNH PHÚC: TRẢI NGHIỆM KHÔNG THỂ BỎ LỠ MÙA TRUNG THU NÀY",
+            "time":"16/08/2022",
+            "image":"https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/463584120_1238739267336050_4736212014661895031_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGcaDjRL0wIaOMaq-jyWk-H10IfrHJDER3XQh-sckMRHd_P7nesO9R9sbsje-Kc1PYnwU0tmaQvQuB_z7wCiGY6&_nc_ohc=lYK0QhNmjTcQ7kNvgH48rQp&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AmUJ6QCHTQPJ1CQjKB2THbg&oh=00_AYD4IDdWVN5XihwNrv1BPTvZJbj0uQ56clMylgzrI90sJA&oe=67171FA9",
+            "content1": "Năm 2022 là năm đề cao sức khỏe tinh thần nên giới trẻ muốn tận hưởng một Trung thu với nhiều trải nghiệm mới mẻ, rôm rả cùng bạn bè và người thân. Và trải nghiệm độc đáo “Khuấy để thấy trăng” của The Coffee House như khuấy lên niềm hạnh phúc, nao nức về một trung thu đầy thú vị mà không người trẻ nào muốn bỏ lỡ.",
+            "content2": "Sau khi chứng kiến cái thế giới mà ở đấy mỗi cái nắm tay cũng là điều xa xỉ, người ta liền rục rịch định nghĩa lại về hạnh phúc, tạp chí Vogue viết. Hạnh phúc giờ đây chỉ gói gọn trong những điều giản đơn. Được xách vali bước lên chuyến bay hồi hương, được nhìn thấy nhau, được tỉ tê kể nhau nghe chuyện to chuyện nhỏ. Đó mới là điều hạnh phúc nhất sau khoảng thời gian lạ lùng vừa qua. Cho đến thời điểm này, cách nghĩ đó về hạnh phúc dần trở thành một tiêu chuẩn bình thường mới. Tiêu chuẩn này phần nào dự đoán cách mà người trẻ Việt chào đón Trung thu năm nay. Trải qua một năm bị chia cách bất đắc dĩ, giới trẻ giờ đây thêm trân quý những phút giây được sum vầy bên người thân, bạn bè và người thương. Hơn nữa, 2022 cũng là năm đề cao sức khỏe tinh thần, nên sẽ chẳng lạ nếu người trẻ muốn tận hưởng một Trung thu với nhiều trải nghiệm mới mẻ.Khuấy để thấy trăng - Khuấy lên hạnh phúc. Là chuỗi cà phê luôn mang đến những bất ngờ cho người trẻ, The Coffee House không chỉ sáng tạo thức uống riêng cho mùa Trung thu mà còn mang đến trải nghiệm cực kỳ mới mẻ. Với bộ sưu tập Hi-Tea Bling Bling, bạn chỉ cần khuấy lên sẽ thấy vòng xoáy nước lóng lánh sắc vàng chuyển động tựa ánh trăng cực đẹp mắt. Hiệu ứng bling bling lần đầu tiên xuất hiện trong thức uống của Nhà, khiến việc thưởng trà trở nên thú vị hơn đối với người trẻ. "
+
+        }
+    ]
+  }

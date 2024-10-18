@@ -3,15 +3,6 @@ import logoImg from "../../assets/images/logo.png"
 import { Link } from "react-router-dom";
 
 const Header = () => {
-    const header = document.querySelector(".header")
-
-    window.addEventListener('scroll', function() {
-    if (window.scrollY > 0) {
-        header.classList.add('scroll-header');
-    } else {
-        header.classList.remove('scroll-header');
-    }
-    });
 
   return (
     <div className="header">
@@ -35,140 +26,137 @@ const Header = () => {
                             <div className="container">
                             <div className="row">
                                 <ul className="col-12 col-sm-12 col-md-12 sub-menu-content">
+
                                 <li className="sub-menu-lv1-child">
-                                    <a href="###" className="title-sub-menu-lv1">
-                                    Tất cả
-                                    </a>
-                                </li>
-                                <li className="sub-menu-lv1-child">
-                                    <a href="###" className="title-sub-menu-lv1">
+                                    <p className="title-sub-menu-lv1">
                                     Cà phê
-                                    </a>
+                                    </p>
                                     <ul className="sub-menu-lv2">
                                     <li>
-                                        <a href="####">Cà phê sữa đá</a>
+                                        <a href="http://localhost:5174/product-details/1">Cà phê sữa đá</a>
                                     </li>
                                     <li>
-                                        <a href="####">Cà phê bạc xỉu</a>
+                                        <a href="http://localhost:5174/product-details/2">Cà phê bạc xỉu</a>
                                     </li>
                                     <li>
-                                        <a href="####">Cà phê đen đá</a>
+                                        <a href="http://localhost:5174/product-details/3">Cà phê đen đá</a>
                                     </li>
                                     </ul>
                                 </li>
+
                                 <li className="sub-menu-lv1-child">
-                                    <a href="###" className="title-sub-menu-lv1">
+                                    <p className="title-sub-menu-lv1">
                                     Trà
-                                    </a>
+                                    </p>
                                     <ul className="sub-menu-lv2">
                                     <li>
-                                        <a href="####">Trà quả mọng anh đào</a>
+                                        <a href="http://localhost:5174/product-details/9">Trà quả mọng anh đào</a>
                                     </li>
                                     <li>
-                                        <a href="####">Trà sen vàng</a>
+                                        <a href="http://localhost:5174/product-details/4">Trà sen vàng</a>
                                     </li>
                                     <li>
-                                        <a href="####">Trà thạch đào</a>
+                                        <a href="http://localhost:5174/product-details/5">Trà thạch đào</a>
                                     </li>
                                     <li>
-                                        <a href="####">Trà thanh đào</a>
+                                        <a href="http://localhost:5174/product-details/6">Trà thanh đào</a>
                                     </li>
                                     <li>
-                                        <a href="####">Trà thạch vải</a>
+                                        <a href="http://localhost:5174/product-details/7">Trà thạch vải</a>
                                     </li>
                                     <li>
-                                        <a href="####">Trà xanh đậu đỏ</a>
+                                        <a href="http://localhost:5174/product-details/8">Trà xanh đậu đỏ</a>
                                     </li>
                                     </ul>
                                 </li>
                                 <li className="sub-menu-lv1-child">
-                                    <a href="###" className="title-sub-menu-lv1">
+                                    <p className="title-sub-menu-lv1">
                                     Freeze
-                                    </a>
+                                    </p>
                                     <ul className="sub-menu-lv2">
                                     <li>
-                                        <a href="####">Freeze quả mọng anh đào</a>
+                                        <a href="http://localhost:5174/product-details/14">Freeze quả mọng anh đào</a>
                                     </li>
                                     <li>
-                                        <a href="####">Freeze trà xanh</a>
+                                        <a href="http://localhost:5174/product-details/10">Freeze trà xanh</a>
                                     </li>
                                     <li>
-                                        <a href="####">Freeze socola</a>
+                                        <a href="http://localhost:5174/product-details/11">Freeze socola</a>
                                     </li>
                                     <li>
-                                        <a href="####">Freeze cookie and cream</a>
+                                        <a href="http://localhost:5174/product-details/12">Freeze cookie and cream</a>
                                     </li>
                                     <li>
-                                        <a href="####">Freeze caramel</a>
+                                        <a href="http://localhost:5174/product-details/13">Freeze caramel</a>
                                     </li>
                                     </ul>
                                 </li>
                                 <li className="sub-menu-lv1-child">
-                                    <a href="###" className="title-sub-menu-lv1">
+                                    <p className="title-sub-menu-lv1">
                                     Phindi
-                                    </a>
+                                    </p>
                                     <ul className="sub-menu-lv2">
                                     <li>
-                                        <a href="####">Phindi hạnh nhân</a>
+                                        <a href="http://localhost:5174/product-details/15">Phindi hạnh nhân</a>
                                     </li>
                                     <li>
-                                        <a href="####">Phindi kem sữa</a>
+                                        <a href="http://localhost:5174/product-details/16">Phindi kem sữa</a>
                                     </li>
                                     <li>
-                                        <a href="####">Phindi choco</a>
+                                        <a href="http://localhost:5174/product-details/17">Phindi choco</a>
                                     </li>
                                     </ul>
                                 </li>
                                 <li className="sub-menu-lv1-child">
-                                    <a href="###" className="title-sub-menu-lv1">
+                                    <p className="title-sub-menu-lv1">
                                     Espresso
-                                    </a>
+                                    </p>
                                     <ul className="sub-menu-lv2">
                                     <li>
-                                        <a href="####">Espresso</a>
+                                        <a href="http://localhost:5174/product-details/18">Espresso</a>
                                     </li>
                                     <li>
-                                        <a href="####">Americano</a>
+                                        <a href="http://localhost:5174/product-details/19">Americano</a>
                                     </li>
                                     <li>
-                                        <a href="####">Latte</a>
+                                        <a href="http://localhost:5174/product-details/20">Latte</a>
                                     </li>
                                     <li>
-                                        <a href="####">Cappuccino</a>
+                                        <a href="http://localhost:5174/product-details/21">Cappuccino</a>
                                     </li>
                                     <li>
-                                        <a href="####">Caramel macchiato</a>
+                                        <a href="http://localhost:5174/product-details/22">Caramel macchiato</a>
                                     </li>
                                     </ul>
                                 </li>
                                 <li className="sub-menu-lv1-child">
-                                    <a href="###" className="title-sub-menu-lv1">
+                                    <p className="title-sub-menu-lv1">
                                     Bánh
-                                    </a>
+                                    </p>
                                     <ul className="sub-menu-lv2">
                                     <li>
-                                        <a href="####">Bánh mì que pate</a>
+                                        <a href="http://localhost:5174/product-details/23">Bánh mì que pate</a>
                                     </li>
                                     <li>
-                                        <a href="####">Bánh mì gà phomai</a>
+                                        <a href="http://localhost:5174/product-details/24">Bánh mì gà phomai</a>
                                     </li>
                                     <li>
-                                        <a href="####">Bánh trà xanh</a>
+                                        <a href="http://localhost:5174/product-details/25">Bánh trà xanh</a>
                                     </li>
                                     <li>
-                                        <a href="####">Bánh caramel</a>
+                                        <a href="http://localhost:5174/product-details/26">Bánh caramel</a>
                                     </li>
                                     <li>
-                                        <a href="####">Bánh mousse đào</a>
+                                        <a href="http://localhost:5174/product-details/27">Bánh mousse đào</a>
                                     </li>
                                     <li>
-                                        <a href="####">Bánh mousse cacao</a>
+                                        <a href="http://localhost:5174/product-details/28">Bánh mousse cacao</a>
                                     </li>
                                     <li>
-                                        <a href="####">Bánh socola</a>
+                                        <a href="http://localhost:5174/product-details/29">Bánh socola</a>
                                     </li>
                                     <li>
-                                        <a href="####">Bánh chuối</a>
+                                        <a href="http://localhost:5174/product-details/30">Bánh chuối</a>
                                     </li>
                                     </ul>
                                 </li>
